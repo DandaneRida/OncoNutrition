@@ -1,0 +1,460 @@
+id_food,id,food_group,food_subgroup,name,food_source_french,food_source_scientific_name,food_source_botanical_family,created_at,updated_at,total_polyphenols_mg_100g
+1,531,Alcoholic beverages,Beers,Beer [Alcohol free],Bière [Sans alcool],,,2007-02-22 00:00:00 UTC,2015-04-13 21:45:46 UTC,13.082650000000001
+2,492,Alcoholic beverages,Beers,Beer [Ale],Bière [Ale],,,2006-09-27 11:41:55 UTC,2015-04-13 21:45:46 UTC,54.18848
+3,494,Alcoholic beverages,Beers,Beer [Dark],Bière [Brune],,,2006-09-27 11:42:25 UTC,2015-04-13 21:45:46 UTC,42.58643
+4,539,Alcoholic beverages,Beers,Beer [Regular],Bière [Régulière],,,2007-03-23 00:00:00 UTC,2015-04-13 21:45:47 UTC,34.09411
+5,28,Alcoholic beverages,Ciders,Cider,Cidre,,,2004-06-16 14:32:03 UTC,2015-04-13 21:45:42 UTC,98.34040999999999
+6,720,Alcoholic beverages,Liquors - Nut liquors,"Walnut, liquor","Noix, liqueur",Juglans regia L.,Juglandaceae,2007-09-28 00:00:00 UTC,2015-04-13 21:45:48 UTC,260.07333
+7,193,Alcoholic beverages,Spirits - Brandy,Cognac,Cognac,,,2005-10-12 09:27:10 UTC,2015-04-13 21:45:44 UTC,1.61961
+8,194,Alcoholic beverages,Spirits - Rum,Rum,Rum,,,2005-10-12 09:27:10 UTC,2015-04-13 21:45:44 UTC,0.43
+9,192,Alcoholic beverages,Spirits - Whisky,Scotch whisky,Whisky,,,2005-10-12 09:27:10 UTC,2015-04-13 21:45:44 UTC,1.26116
+10,150,Alcoholic beverages,Wines - Berry wines,"Black crowberry, wine","Camarine noire, vin",Empetrum nigrum L.,Ericaceae,2005-09-28 10:49:19 UTC,2015-04-13 21:45:43 UTC,1.8199999999999998
+11,148,Alcoholic beverages,Wines - Berry wines,"Blackcurrant, wine","Cassis, vin",Ribes nigrum L.,Grossulariaceae,2005-09-28 10:49:19 UTC,2015-04-13 21:45:43 UTC,73.43833
+12,233,Alcoholic beverages,Wines - Berry wines,"Fox grape, red wine","Raisin Labrusca, vin rouge",Vitis labrusca L.,Vitaceae,2006-05-15 00:00:00 UTC,2015-04-13 21:45:44 UTC,0.445
+13,234,Alcoholic beverages,Wines - Berry wines,"Fox grape, white wine","Raisin Labrusca, vin blanc",Vitis labrusca L.,Vitaceae,2006-05-15 00:00:00 UTC,2015-04-13 21:45:44 UTC,0.0655
+14,145,Alcoholic beverages,Wines - Berry wines,"Muscadine grape, red wine","Raisin muscadine, vin",Vitis rotundifolia,Vitaceae,2005-09-14 00:00:00 UTC,2015-04-13 21:45:43 UTC,3.024
+15,147,Alcoholic beverages,Wines - Fortified Wines,Sherry,Sherry,,,2005-09-14 09:18:17 UTC,2015-04-13 21:45:43 UTC,20.55149
+16,135,Alcoholic beverages,Wines - Grape wines,Wine [Red],Vin [Rouge],Vitis vinifera L.,Vitaceae,2005-08-16 00:00:00 UTC,2015-04-13 21:45:43 UTC,357.81479
+17,137,Alcoholic beverages,Wines - Grape wines,Wine [Rosé],Vin [Rosé],Vitis vinifera L.,Vitaceae,2005-08-16 00:00:00 UTC,2015-04-13 21:45:43 UTC,96.18367
+18,136,Alcoholic beverages,Wines - Grape wines,Wine [White],Vin [Blanc],Vitis vinifera L.,Vitaceae,2005-08-16 00:00:00 UTC,2015-04-13 21:45:43 UTC,42.55247
+19,139,Alcoholic beverages,Wines - Sparkling wines,Champagne,Champagne,,Vitaceae,2005-09-07 09:22:26 UTC,2015-04-13 21:45:43 UTC,24.91975
+20,229,Cereals and cereal products,Cereal products,"Bread, common wheat, whole grain flour","Pain, farine complète",,,2006-05-12 16:32:33 UTC,2015-04-13 21:45:44 UTC,240.55216
+21,226,Cereals and cereal products,Cereal products,"Bread, refined flour","Pain, farine raffinée",,,2006-05-10 11:33:24 UTC,2015-04-13 21:45:44 UTC,0.04023
+22,293,Cereals and cereal products,Cereal products,"Bread, rye, whole grain flour","Pain, seigle, farine complète",,,2006-07-24 16:11:19 UTC,2015-04-13 21:45:44 UTC,188.01009
+23,219,Cereals and cereal products,Cereal products,"Breakfast cereals, bran","Céréales pour petit déjeuner, son",,,2006-05-03 09:56:12 UTC,2015-04-13 21:45:44 UTC,285.70282000000003
+24,976,Cereals and cereal products,Cereal products,"Breakfast cereals, corn","Céréales pour petit déjeuner, maïs",,,2009-12-22 14:33:28 UTC,2015-04-13 21:45:50 UTC,842.00717
+25,301,Cereals and cereal products,Cereal products,"Breakfast cereals, muesli","Céreales pour petit déjeuner, muesli",,,2006-07-28 15:18:54 UTC,2015-04-13 21:45:45 UTC,13.75406
+26,975,Cereals and cereal products,Cereal products,"Breakfast cereals, oat, whole-meal","Céréales pour petit déjeuner, avoine, complet",,,2009-12-22 14:33:28 UTC,2015-04-13 21:45:50 UTC,193.40749
+27,227,Cereals and cereal products,Cereal products,Pasta,Pâtes,,,2006-05-10 11:34:30 UTC,2015-04-13 21:45:44 UTC,4.83415
+28,299,Cereals and cereal products,Cereal products,"Pasta, whole grain",Pâtes complètes,,,2006-07-28 10:01:26 UTC,2015-04-13 21:45:45 UTC,21.866500000000002
+29,300,Cereals and cereal products,Cereals,"Barley, whole grain flour","Orge, farine complète",Hordeum vulgare L.,Poaceae,2006-07-28 11:15:46 UTC,2015-04-13 21:45:45 UTC,112.97901999999999
+30,529,Cereals and cereal products,Cereals,"Buckwheat, groats, thermally treated",Sarrasin,Fagopyrum esculentum,Polygonaceae,2007-01-15 00:00:00 UTC,2015-04-13 21:45:46 UTC,9.2175
+31,317,Cereals and cereal products,Cereals,"Buckwheat, refined flour","Sarrasin, farine raffinée",Fagopyrum esculentum,Polygonaceae,2006-08-09 11:44:28 UTC,2015-04-13 21:45:45 UTC,165.17893
+32,321,Cereals and cereal products,Cereals,"Buckwheat, whole grain flour","Sarrasin, farine complète",Fagopyrum esculentum,Polygonaceae,2006-08-10 00:00:00 UTC,2015-04-13 21:45:45 UTC,829.3787000000001
+33,315,Cereals and cereal products,Cereals,"Common wheat, germ","Blé commun, germe",Triticum aestivum L.,Poaceae,2006-08-09 10:51:39 UTC,2015-04-13 21:45:45 UTC,863.149
+34,225,Cereals and cereal products,Cereals,"Common wheat, refined flour","Blé commun, farine raffinée",Triticum aestivum L.,Poaceae,2006-05-10 10:02:07 UTC,2015-04-13 21:45:44 UTC,103.02686
+35,224,Cereals and cereal products,Cereals,"Common wheat, whole grain flour","Blé commun, farine complète",Triticum aestivum L.,Poaceae,2006-05-09 15:34:22 UTC,2015-04-13 21:45:44 UTC,297.42384000000004
+36,218,Cereals and cereal products,Cereals,"Hard wheat, refined flour","Blé dur, farine raffinée",Triticum durum L.,Poaceae,2006-05-02 14:30:57 UTC,2015-04-13 21:45:44 UTC,74.57875
+37,216,Cereals and cereal products,Cereals,"Hard wheat, semolina","Blé dur, semoule",Triticum durum L.,Poaceae,2006-05-02 13:39:24 UTC,2015-04-13 21:45:44 UTC,94.24583
+38,210,Cereals and cereal products,Cereals,"Hard wheat, whole grain flour","Blé dur, farine complète",Triticum durum L.,Poaceae,2006-04-20 13:39:31 UTC,2015-04-13 21:45:44 UTC,364.92182
+39,326,Cereals and cereal products,Cereals,"Maize, refined flour","Maïs, farine raffinée",Zea mays L.,Poaceae,2006-08-10 00:00:00 UTC,2015-04-13 21:45:45 UTC,256.46000000000004
+40,304,Cereals and cereal products,Cereals,"Maize, whole grain","Maïs, complet",Zea mays L.,Poaceae,2006-08-04 15:45:19 UTC,2015-04-13 21:45:45 UTC,396.04440999999997
+41,325,Cereals and cereal products,Cereals,"Oat, refined flour","Avoine, farine raffinée",Avena sativa L.,Poaceae,2006-08-10 00:00:00 UTC,2015-04-13 21:45:45 UTC,16.393
+42,338,Cereals and cereal products,Cereals,"Oat, rolled","Avoine, laminée à chaud",Avena sativa L.,Poaceae,2006-08-16 00:00:00 UTC,2015-04-13 21:45:45 UTC,29.0645
+43,305,Cereals and cereal products,Cereals,"Oat, whole grain flour","Avoine, farine complète",Avena sativa L.,Poaceae,2006-08-04 10:22:00 UTC,2015-04-13 21:45:45 UTC,131.6208
+44,522,Cereals and cereal products,Cereals,"Rice, parboiled","Riz, étouvé",Oryza sativa L.,Poaceae,2006-11-20 00:00:00 UTC,2015-04-13 21:45:46 UTC,1.08
+45,324,Cereals and cereal products,Cereals,"Rice, refined","Riz, raffiné",Oryza sativa L.,Poaceae,2006-08-10 13:29:17 UTC,2015-04-13 21:45:45 UTC,8.07
+46,354,Cereals and cereal products,Cereals,"Rice, whole grain","Riz, complet",Oryza sativa L.,Poaceae,2006-08-17 00:00:00 UTC,2015-04-13 21:45:45 UTC,124.6715
+47,316,Cereals and cereal products,Cereals,"Rye, refined flour","Seigle, farine raffinée",Secale cereale L.,Poaceae,2006-08-09 00:00:00 UTC,2015-04-13 21:45:45 UTC,85.082
+48,292,Cereals and cereal products,Cereals,"Rye, whole grain flour","Seigle, farine complète",Secale cereale L.,Poaceae,2006-07-24 11:26:01 UTC,2015-04-13 21:45:44 UTC,285.27044
+49,308,Cereals and cereal products,Cereals,"Sorghum, whole grain","Sorgho, complet",Sorghum bicolor L.,Poaceae,2007-12-11 00:00:00 UTC,2015-04-13 21:45:45 UTC,2395.39751
+50,439,Coffee and cocoa,Cocoa - Chocolate,"Chocolate, dark","Chocolat, noir",,,2006-09-12 00:00:00 UTC,2015-04-13 21:45:46 UTC,3620.93071
+51,440,Coffee and cocoa,Cocoa - Chocolate,"Chocolate, milk",Chocolat au lait,,,2006-09-12 00:00:00 UTC,2015-04-13 21:45:46 UTC,1090.44045
+52,536,Coffee and cocoa,Cocoa - Cocoa powders,"Cocoa, powder","Cacao, poudre",Theobroma cacao,Sterculiaceae,2007-02-22 17:50:29 UTC,2015-04-13 21:45:47 UTC,9366.35714
+53,146,Fruits and fruit products,Dried fruits - Dried berries,"Grape, raisin",Raisin,Vitis vinifera L.,Vitaceae,2005-09-14 00:00:00 UTC,2015-04-13 21:45:43 UTC,1085.08456
+54,558,Fruits and fruit products,Dried fruits - Dried drupes,"Apricot, dried","Abricot, séché",Prunus armeniaca L.,Rosaceae,2007-04-06 00:00:00 UTC,2015-04-13 21:45:47 UTC,0.6317699999999999
+55,51,Fruits and fruit products,Dried fruits - Dried drupes,"Plum, prune",Pruneau,Prunus domestica L.,Rosaceae,2004-11-22 00:00:00 UTC,2015-04-13 21:45:42 UTC,1389.94929
+56,913,Fruits and fruit products,Dried fruits - Dried other fruits,"Date, dried","Datte, séchée",Phoenix dactylifera L.,Arecaceae,2008-04-16 00:00:00 UTC,2015-04-13 21:45:50 UTC,553.50254
+57,920,Fruits and fruit products,Dried fruits - Dried other fruits,"Fig, dried","Figue, séchée",Ficus carica L.,Moraceae,2008-04-17 00:00:00 UTC,2015-04-13 21:45:50 UTC,960.111
+58,62,Fruits and fruit products,Fruits - Berries,Aestivalis grape [Black],Raisin Aestivalis [Noir],Vitis aestivalis L.,Vitaceae,2004-12-02 00:00:00 UTC,2015-04-13 21:45:43 UTC,76.64
+59,74,Fruits and fruit products,Fruits - Berries,American cranberry,Canneberge d'Amérique,Vaccinium macrocarpon Aiton,Ericaceae,2005-01-26 00:00:00 UTC,2015-04-13 21:45:43 UTC,1069.80334
+60,98,Fruits and fruit products,Fruits - Berries,Arctic blackberry,Ronce arctique,Rubus arcticus ssp. Stellatus,Rosaceae,2005-01-28 15:04:33 UTC,2015-04-13 21:45:43 UTC,20.25
+61,94,Fruits and fruit products,Fruits - Berries,"Bilberry, raw",Myrtille commune,Vaccinium myrtillus L.,Ericaceae,2005-01-27 00:00:00 UTC,2015-04-13 21:45:43 UTC,835.67246
+62,106,Fruits and fruit products,Fruits - Berries,Black chokeberry,Aronie à fruit noir,Aronia melanocarpa,Rosaceae,2005-02-04 14:52:13 UTC,2015-04-13 21:45:43 UTC,3971.46665
+63,107,Fruits and fruit products,Fruits - Berries,Black crowberry,Camarine noire,Empetrum nigrum L.,Ericaceae,2005-02-07 00:00:00 UTC,2015-04-13 21:45:43 UTC,10.100000000000001
+64,124,Fruits and fruit products,Fruits - Berries,Black elderberry,Surreau noir,Sambucus nigra L.,Caprifoliaceae,2005-03-07 00:00:00 UTC,2015-04-13 21:45:43 UTC,3335.70296
+65,109,Fruits and fruit products,Fruits - Berries,Black huckleberry,Huckleberry,Gaylussacia baccata,Ericaceae,2005-02-07 00:00:00 UTC,2015-04-13 21:45:43 UTC,669.8299900000001
+66,101,Fruits and fruit products,Fruits - Berries,"Black raspberry, raw","Framboise noire, cru",Rubus occidentalis L.,Rosaceae,2005-02-03 00:00:00 UTC,2015-04-13 21:45:43 UTC,1626.0
+67,79,Fruits and fruit products,Fruits - Berries,"Blackberry, raw","Mûre (Ronce), cru",Rubus L.,Rosaceae,2005-01-26 00:00:00 UTC,2015-04-13 21:45:43 UTC,1040.45277
+68,77,Fruits and fruit products,Fruits - Berries,"Blackcurrant, raw","Cassis, cru",Ribes nigrum L.,Grossulariaceae,2005-01-26 00:00:00 UTC,2015-04-13 21:45:43 UTC,1823.46064
+69,92,Fruits and fruit products,Fruits - Berries,"Bog bilberry, raw","Myrtille des marais, crue",Vaccinium uliginosum,Ericaceae,2005-01-27 00:00:00 UTC,2015-04-13 21:45:43 UTC,336.46833
+70,126,Fruits and fruit products,Fruits - Berries,Buffalo,Groseille,Ribes odoratum Wendl.,Grossulariaceae,2005-05-12 00:00:00 UTC,2015-04-13 21:45:43 UTC,1231.0
+71,125,Fruits and fruit products,Fruits - Berries,Canada blueberry,Airelle Canada,Vaccinium myrtilloides Michx.,Ericaceae,2005-03-17 09:58:17 UTC,2015-04-13 21:45:43 UTC,954.0
+72,114,Fruits and fruit products,Fruits - Berries,Cascade huckleberry,Airelle cascade,Vaccinium deliciosum Piper,Ericaceae,2005-02-07 00:00:00 UTC,2015-04-13 21:45:43 UTC,468.345
+73,99,Fruits and fruit products,Fruits - Berries,Cloudberry,Ronce blanche,Rubus chamaemorus L.,Rosaceae,2005-01-28 15:05:43 UTC,2015-04-13 21:45:43 UTC,48.7625
+74,93,Fruits and fruit products,Fruits - Berries,European cranberry,Canneberge d'Europe,Vaccinium oxycoccus L.,Ericaceae,2005-01-27 00:00:00 UTC,2015-04-13 21:45:43 UTC,225.64
+75,111,Fruits and fruit products,Fruits - Berries,Evergreen huckleberry,Huckleberry,Vaccinium ovatum Pursh,Ericaceae,2005-02-07 00:00:00 UTC,2015-04-13 21:45:43 UTC,1123.5500000000002
+76,158,Fruits and fruit products,Fruits - Berries,Fox grape [Black],Raisin Labrusca [Noir],Vitis labrusca L.,Vitaceae,2005-09-28 00:00:00 UTC,2015-04-13 21:45:43 UTC,239.82
+77,91,Fruits and fruit products,Fruits - Berries,Gooseberry,Groseille à maquereau,Ribes uva-crispa L.,Grossulariaceae,2005-01-27 00:00:00 UTC,2015-04-13 21:45:43 UTC,580.5762
+78,141,Fruits and fruit products,Fruits - Berries,Grape [Black],Raisin [Noir],Vitis vinifera L.,Vitaceae,2005-09-14 00:00:00 UTC,2015-04-13 21:45:43 UTC,343.70252999999997
+79,143,Fruits and fruit products,Fruits - Berries,Grape [Green],Raisin [Vert],Vitis vinifera L.,Vitaceae,2005-09-14 00:00:00 UTC,2015-04-13 21:45:43 UTC,217.04136
+80,89,Fruits and fruit products,Fruits - Berries,Greencurrant,Cassis,Ribes nigrum L.,Grossulariaceae,2005-01-27 00:00:00 UTC,2015-04-13 21:45:43 UTC,17.81
+81,113,Fruits and fruit products,Fruits - Berries,Half-highbush blueberry,Airelle half-highbush,Vaccinium augustifolium Aiton x Vaccinium corymbosum,Ericaceae,2005-02-07 00:00:00 UTC,2015-04-13 21:45:43 UTC,495.19334000000003
+82,95,Fruits and fruit products,Fruits - Berries,"Highbush blueberry, raw",Airelle en corymbe,Vaccinium corymbosum L. and Vaccinium corymbosum L. hybrids,Ericaceae,2005-01-27 00:00:00 UTC,2015-04-13 21:45:43 UTC,1026.13931
+83,104,Fruits and fruit products,Fruits - Berries,Jostaberry,Baie Josta,Ribes × nidigrolaria Rud. Bauer & A. Bauer,Grossulariaceae,2005-02-04 00:00:00 UTC,2015-04-13 21:45:43 UTC,399.59999999999997
+84,83,Fruits and fruit products,Fruits - Berries,"Lingonberry, raw","Airelle rouge, crue",Vaccinium vitis-idaea L.,Ericaceae,2005-01-26 00:00:00 UTC,2015-04-13 21:45:43 UTC,819.17271
+85,81,Fruits and fruit products,Fruits - Berries,"Lowbush blueberry, raw","Airelle à feuilles étroites, crue",Vaccinium augustifolium Aiton,Ericaceae,2005-01-26 00:00:00 UTC,2015-04-13 21:45:43 UTC,1233.84142
+86,110,Fruits and fruit products,Fruits - Berries,Oval-leaf huckleberry,Huckleberry Oval-leaf,Vaccinium ovalifolium,Ericaceae,2005-02-07 00:00:00 UTC,2015-04-13 21:45:43 UTC,1055.7005800000002
+87,100,Fruits and fruit products,Fruits - Berries,Rabbiteye blueberry,Airelle rabbiteye,Vaccinium corymbosum L.,Ericaceae,2005-02-03 00:00:00 UTC,2015-04-13 21:45:43 UTC,742.9321
+88,112,Fruits and fruit products,Fruits - Berries,Red huckleberry,Huckleberry,Vaccinium parvifolium Sm.,Ericaceae,2005-02-07 00:00:00 UTC,2015-04-13 21:45:43 UTC,225.04
+89,67,Fruits and fruit products,Fruits - Berries,"Red raspberry, raw","Framboise rouge, cru",Rubus idaeus L.,Rosaceae,2005-01-24 00:00:00 UTC,2015-04-13 21:45:43 UTC,445.56506
+90,86,Fruits and fruit products,Fruits - Berries,"Redcurrant, raw","Groseille, crue",Ribes rubrum L.,Grossulariaceae,2005-01-26 00:00:00 UTC,2015-04-13 21:45:43 UTC,579.05907
+91,108,Fruits and fruit products,Fruits - Berries,"Rowanberry, raw","Sorbier, cru",Sorbus aucuparia L.,Rosaceae,2005-02-07 00:00:00 UTC,2015-04-13 21:45:43 UTC,6.3
+92,115,Fruits and fruit products,Fruits - Berries,Sea-buckthornberry,Argousier,Hippophae rhamnoides L.,Elaeagnaceae,2005-02-08 00:00:00 UTC,2015-04-13 21:45:43 UTC,6.2
+93,127,Fruits and fruit products,Fruits - Berries,Skunk,Groseille,Ribes valdivianum Phil.,Grossulariaceae,2005-05-12 00:00:00 UTC,2015-04-13 21:45:43 UTC,2148.0
+94,69,Fruits and fruit products,Fruits - Berries,"Strawberry, raw","Fraise, crue",Fragaria L.,Rosaceae,2005-01-25 00:00:00 UTC,2015-04-13 21:45:43 UTC,600.17815
+95,116,Fruits and fruit products,Fruits - Berries,Sweet rowanberry,Sorbier,Grataegosorbus mitschurinii,Rosaceae,2005-02-08 00:00:00 UTC,2015-04-13 21:45:43 UTC,8.5
+96,90,Fruits and fruit products,Fruits - Berries,Whitecurrant,Groseille,Ribes rubrum L.,Grossulariaceae,2005-01-27 00:00:00 UTC,2015-04-13 21:45:43 UTC,3.23
+97,11,Fruits and fruit products,Fruits - Citrus,Grapefruit,Pomelo,Citrus paradisi,Rutaceae,2004-04-13 00:00:00 UTC,2015-04-13 21:45:42 UTC,99.78278
+98,16,Fruits and fruit products,Fruits - Citrus,Lemon,Citron,Citrus limon,Rutaceae,2004-05-11 15:33:48 UTC,2015-04-13 21:45:42 UTC,96.70667
+99,205,Fruits and fruit products,Fruits - Citrus,Lime,Citron vert,Citrus aurantifolia,Rutaceae,2006-03-30 00:00:00 UTC,2015-04-13 21:45:44 UTC,46.8
+100,8,Fruits and fruit products,Fruits - Citrus,Orange [Blond],Orange [Blonde],Citrus sinensis L.,Rutaceae,2004-04-13 00:00:00 UTC,2015-04-13 21:45:42 UTC,329.06451999999996
+101,22,Fruits and fruit products,Fruits - Citrus,Tangerine,Mandarine,Citrus tangerina,Rutaceae,2004-05-11 15:33:48 UTC,2015-04-13 21:45:42 UTC,199.89808
+102,54,Fruits and fruit products,Fruits - Drupes,"Apricot, raw","Abricot, cru",Prunus armeniaca L.,Rosaceae,2004-11-24 00:00:00 UTC,2015-04-13 21:45:42 UTC,208.53628
+103,60,Fruits and fruit products,Fruits - Drupes,"Nectarine, peeled","Nectarine, pelée",Prunus persica var. nucipersica,Rosaceae,2004-11-25 00:00:00 UTC,2015-04-13 21:45:42 UTC,82.60341
+104,55,Fruits and fruit products,Fruits - Drupes,"Nectarine, whole","Nectarine, entière",Prunus persica var. nucipersica,Rosaceae,2004-11-24 00:00:00 UTC,2015-04-13 21:45:42 UTC,98.46419
+105,45,Fruits and fruit products,Fruits - Drupes,"Peach, peeled","Pêche, pelée",Prunus persica L.,Rosaceae,2004-11-19 00:00:00 UTC,2015-04-13 21:45:42 UTC,166.0691
+106,44,Fruits and fruit products,Fruits - Drupes,"Peach, whole","Pêche, entière",Prunus persica L.,Rosaceae,2004-11-19 00:00:00 UTC,2015-04-13 21:45:42 UTC,327.05096
+107,50,Fruits and fruit products,Fruits - Drupes,"Plum, fresh","Prune, fraîche",Prunus domestica L.,Rosaceae,2004-11-22 00:00:00 UTC,2015-04-13 21:45:42 UTC,885.00862
+108,47,Fruits and fruit products,Fruits - Drupes,Sour cherry,Cerise acide,Prunus cerasus L.,Rosaceae,2004-11-19 00:00:00 UTC,2015-04-13 21:45:42 UTC,500.76334
+109,46,Fruits and fruit products,Fruits - Drupes,"Sweet cherry, raw","Cerise douce, crue",Prunus avium L.,Rosaceae,2004-11-19 00:00:00 UTC,2015-04-13 21:45:42 UTC,483.00215
+110,3,Fruits and fruit products,Fruits - Gourds,Cantaloupe,Melon cantaloup,Cucumis melo var. dudaim,Cucurbitaceae,2002-09-23 11:42:55 UTC,2015-04-13 21:45:42 UTC,109.5943
+111,449,Fruits and fruit products,Fruits - Gourds,Honeydew melon,Melon d'hiver,Cucumis melo,Cucurbitaceae,2006-09-13 00:00:00 UTC,2015-04-13 21:45:46 UTC,59.325
+112,160,Fruits and fruit products,Fruits - Gourds,Melon,Melon,Cucumis melo,Cucurbitaceae,2005-09-28 00:00:00 UTC,2015-04-13 21:45:43 UTC,6.690010000000001
+113,182,Fruits and fruit products,Fruits - Gourds,Muskmelon,Melon,Cucumis melo,Cucurbitaceae,2005-09-29 00:00:00 UTC,2015-04-13 21:45:44 UTC,2.58
+114,181,Fruits and fruit products,Fruits - Gourds,Watermelon,Pastèque,Citrullus lanatus vulgaris,Cucurbitaceae,2005-09-29 00:00:00 UTC,2015-04-13 21:45:44 UTC,53.30874
+115,914,Fruits and fruit products,Fruits - Other fruits,"Date, fresh","Datte, fraîche",Phoenix dactylifera L.,Arecaceae,2008-04-16 00:00:00 UTC,2015-04-13 21:45:50 UTC,112.36116
+116,916,Fruits and fruit products,Fruits - Other fruits,"Fig, peeled, fresh","Figue, pelée, fraîche",Ficus carica L.,Moraceae,2008-04-16 00:00:00 UTC,2015-04-13 21:45:50 UTC,58.55
+117,915,Fruits and fruit products,Fruits - Other fruits,"Fig, whole, fresh","Figue, entière, fraîche",Ficus carica L.,Moraceae,2008-04-16 00:00:00 UTC,2015-04-13 21:45:50 UTC,98.48666
+118,34,Fruits and fruit products,Fruits - Pomes,"Apple [Cider], peeled","Pomme [Cidre], pelée",Malus domestica,Rosaceae,2004-06-16 14:32:03 UTC,2015-04-13 21:45:42 UTC,373.19444
+119,33,Fruits and fruit products,Fruits - Pomes,"Apple [Cider], whole","Pomme [Cidre], entière",Malus domestica,Rosaceae,2004-06-16 14:32:03 UTC,2015-04-13 21:45:42 UTC,5.72334
+120,24,Fruits and fruit products,Fruits - Pomes,"Apple [Dessert], peeled","Pomme [Dessert], pelée",Malus domestica,Rosaceae,2004-06-16 14:31:30 UTC,2015-04-13 21:45:42 UTC,275.69726
+121,23,Fruits and fruit products,Fruits - Pomes,"Apple [Dessert], whole, raw","Pomme [Dessert], entière, crue",Malus domestica,Rosaceae,2004-06-16 14:30:47 UTC,2015-04-13 21:45:42 UTC,363.83324999999996
+122,187,Fruits and fruit products,Fruits - Pomes,Medlar,Nèfle,Mespilus germanica L.,Rosaceae,2005-09-29 00:00:00 UTC,2015-04-13 21:45:44 UTC,2.72
+123,40,Fruits and fruit products,Fruits - Pomes,"Pear, peeled","Poire, pelée",Pyrus communis,Rosaceae,2004-11-16 00:00:00 UTC,2015-04-13 21:45:42 UTC,134.75361999999998
+124,39,Fruits and fruit products,Fruits - Pomes,"Pear, whole","Poire, entière",Pyrus communis,Rosaceae,2004-11-16 00:00:00 UTC,2015-04-13 21:45:42 UTC,143.9939
+125,41,Fruits and fruit products,Fruits - Pomes,"Quince, peeled, raw","Coing, pelé",Cydonia Oblonga Mill.,Rosaceae,2004-11-18 00:00:00 UTC,2015-04-13 21:45:42 UTC,19.2325
+126,157,Fruits and fruit products,Fruits - Stalk vegetables,"Rhubarb, raw","Rhubarbe, crue",Rheum  L.,Polygonaceae,2005-09-28 00:00:00 UTC,2015-04-13 21:45:43 UTC,3.28003
+127,159,Fruits and fruit products,Fruits - Tropical fruits,"Banana, raw","Banane, crue",Musa  L.,Musaceae,2005-09-28 00:00:00 UTC,2015-04-13 21:45:43 UTC,161.05345
+128,185,Fruits and fruit products,Fruits - Tropical fruits,Custard apple,Corossol,Annona reticulata L.,Annonaceae,2005-09-29 00:00:00 UTC,2015-04-13 21:45:44 UTC,24.939999999999998
+129,168,Fruits and fruit products,Fruits - Tropical fruits,Guava,Goyave,Psidium guajava L.,Myrtaceae,2005-09-29 00:00:00 UTC,2015-04-13 21:45:43 UTC,126.4
+130,155,Fruits and fruit products,Fruits - Tropical fruits,Kiwi,Kiwi,Actinidia chinensis Planch,Actinidiaceae,2005-09-28 00:00:00 UTC,2015-04-13 21:45:43 UTC,193.78506000000002
+131,167,Fruits and fruit products,Fruits - Tropical fruits,Lichee,Litchi,Litchi chinensis L.,Sapindaceae,2005-09-29 00:00:00 UTC,2015-04-13 21:45:43 UTC,28.8
+132,909,Fruits and fruit products,Fruits - Tropical fruits,Longan,Longane,Dymocarpus longan Lour.,Sapindaceae,2008-04-14 00:00:00 UTC,2015-04-13 21:45:50 UTC,15.4
+133,912,Fruits and fruit products,Fruits - Tropical fruits,Loquat,Néfle du Japon,Eriobotrya japonica Lindl.,Rosaceae,2008-04-16 00:00:00 UTC,2015-04-13 21:45:50 UTC,200.58429
+134,156,Fruits and fruit products,Fruits - Tropical fruits,Mango,Mangue,Mangifera indica L.,Anacardiaceae,2005-09-28 00:00:00 UTC,2015-04-13 21:45:43 UTC,156.90606000000002
+135,201,Fruits and fruit products,Fruits - Tropical fruits,Papaya,Papaye,Carica papaya L.,Caricaceae,2005-10-27 00:00:00 UTC,2015-04-13 21:45:44 UTC,57.602000000000004
+136,910,Fruits and fruit products,Fruits - Tropical fruits,Passion fruit,Fruit de la passion,Passiflora edulis L.,Passifloraceae,2008-04-14 00:00:00 UTC,2015-04-13 21:45:50 UTC,57.42
+137,918,Fruits and fruit products,Fruits - Tropical fruits,"Persimmon, fresh","Kaki, frais",Diospyros kaki L.,Ebenaceae,2008-04-16 00:00:00 UTC,2015-04-13 21:45:50 UTC,1.284
+138,161,Fruits and fruit products,Fruits - Tropical fruits,Pineapple,Ananas,Ananas comosus L. Merr.,Bromeliaceae,2005-09-28 00:00:00 UTC,2015-04-13 21:45:43 UTC,149.01524
+139,180,Fruits and fruit products,Fruits - Tropical fruits,Pomegranate,Grenade,Punica granatum L.,Lythraceae,2005-09-29 00:00:00 UTC,2015-04-13 21:45:44 UTC,1.399
+140,200,Fruits and fruit products,Fruits - Tropical fruits,Star fruit,Carambole,Averroha carambola L.,Oxalidaceae,2005-10-27 00:00:00 UTC,2015-04-13 21:45:44 UTC,142.89999
+141,80,Fruits and fruit products,Jams - Berry jams,"Blackberry, jam","Mûre (Ronce), confiture",Rubus L.,Rosaceae,2005-01-26 00:00:00 UTC,2015-04-13 21:45:43 UTC,9.36333
+142,78,Fruits and fruit products,Jams - Berry jams,"Blackcurrant, jam",Cassis,Ribes nigrum L.,Grossulariaceae,2005-01-26 00:00:00 UTC,2015-04-13 21:45:43 UTC,0.43
+143,82,Fruits and fruit products,Jams - Berry jams,"Lowbush blueberry, jam","Airelle à feuilles étroites, confiture",Vaccinium augustifolium Aiton,Ericaceae,2005-01-26 00:00:00 UTC,2015-04-13 21:45:43 UTC,19.78
+144,68,Fruits and fruit products,Jams - Berry jams,"Red raspberry, jam","Framboise rouge, confiture",Rubus idaeus L.,Rosaceae,2005-01-25 00:00:00 UTC,2015-04-13 21:45:43 UTC,257.06749
+145,88,Fruits and fruit products,Jams - Berry jams,"Strawberry, jam","Fraise, confiture",Fragaria L.,Rosaceae,2005-01-27 00:00:00 UTC,2015-04-13 21:45:43 UTC,25.926000000000002
+146,58,Fruits and fruit products,Jams - Drupe jams,"Apricot, jam","Abricot, confiture",Prunus armeniaca L.,Rosaceae,2004-11-24 00:00:00 UTC,2015-04-13 21:45:42 UTC,6.6
+147,123,Fruits and fruit products,Jams - Drupe jams,"Plum, jam","Prune, confiture",Prunus domestica L.,Rosaceae,2005-03-07 00:00:00 UTC,2015-04-13 21:45:43 UTC,150.75
+148,122,Fruits and fruit products,Jams - Drupe jams,"Sour cherry, jam","Cerise acide, confiture",Prunus cerasus L.,Rosaceae,2005-03-07 00:00:00 UTC,2015-04-13 21:45:43 UTC,191.46667
+149,120,Fruits and fruit products,Jams - Drupe jams,"Sweet cherry, jam","Cerise, confiture",Prunus avium L.,Rosaceae,2005-03-07 00:00:00 UTC,2015-04-13 21:45:43 UTC,19.84
+150,933,Fruits and fruit products,Jams - Pome jams,"Apple [Dessert], compote","Pomme [Dessert], compote",Malus domestica,Rosaceae,2004-06-16 14:32:03 UTC,2015-04-13 21:45:50 UTC,1.42
+151,27,Fruits and fruit products,Jams - Pome jams,"Apple [Dessert], jam","Pomme [Dessert], confiture",Malus domestica,Rosaceae,2004-06-16 14:32:03 UTC,2015-04-13 21:45:42 UTC,0.4
+152,932,Fruits and fruit products,Jams - Pome jams,"Apple [Dessert], jelly","Pomme [Dessert], gelée",Malus domestica,Rosaceae,2004-06-16 14:32:03 UTC,2015-04-13 21:45:50 UTC,4.3
+153,43,Fruits and fruit products,Jams - Pome jams,"Quince, jam","Coing, confiture",Cydonia Oblonga Mill.,Rosaceae,2004-11-18 00:00:00 UTC,2015-04-13 21:45:42 UTC,17.02225
+154,42,Fruits and fruit products,Jams - Pome jams,"Quince, jelly","Coing, gelée",Cydonia Oblonga Mill.,Rosaceae,2004-11-18 00:00:00 UTC,2015-04-13 21:45:42 UTC,31.55285
+155,1465,Fruits and fruit products,Jams - Pome jams,"Quince, peeled, jam","Coing, confiture",Cydonia Oblonga Mill.,Rosaceae,2012-11-12 00:00:00 UTC,2015-04-13 21:45:54 UTC,11.83
+156,688,Non-alcoholic beverages,Cocoa beverage - Chocolate,"Chocolate, milk, beverage","Chocolat au lait, boisson",,,2007-08-14 00:00:00 UTC,2015-04-13 21:45:48 UTC,23.560000000000002
+157,662,Non-alcoholic beverages,Coffee  beverage - Arabica Coffee  beverages,Arabica coffee beverage [Filter],Boisson de café Arabica [Filtre],Coffea arabica L.,Rubiaceae,2007-07-12 00:00:00 UTC,2015-04-13 21:45:48 UTC,88.92
+158,666,Non-alcoholic beverages,Coffee  beverage - Robusta Coffee  beverages,Robusta coffee beverage [Filter],Boisson de café Robusta [Filtre],Coffea canephora,Rubiaceae,2007-07-12 00:00:00 UTC,2015-04-13 21:45:48 UTC,204.60999999999999
+159,552,Non-alcoholic beverages,Coffee  beverage - Unknown Coffee  beverages,Coffee beverage [Filter],Boisson de café [Filtre],Coffea L.,Rubiaceae,2007-04-02 14:33:03 UTC,2015-04-13 21:45:47 UTC,582.73351
+160,553,Non-alcoholic beverages,Coffee  beverage - Unknown Coffee  beverages,"Coffee beverage [Filter], decaffeinated","Boisson de café [Filtre], décaféiné",Coffea L.,Rubiaceae,2007-04-02 14:33:03 UTC,2015-04-13 21:45:47 UTC,549.0316399999999
+161,204,Non-alcoholic beverages,Fruit juices - Berry juices,"Fox grape [Green], pure juice","Raisin Labrusca [Vert], pur jus",Vitis labrusca L.,Vitaceae,2006-03-01 00:00:00 UTC,2015-04-13 21:45:44 UTC,41.65
+162,246,Non-alcoholic beverages,Fruit juices - Berry juices,"Grape [Black], pure juice","Raisin [Noir], pur jus",Vitis vinifera L.,Vitaceae,2006-05-31 00:00:00 UTC,2015-04-13 21:45:44 UTC,68.0
+163,243,Non-alcoholic beverages,Fruit juices - Berry juices,"Grape [Green], pure juice","Raisin [Vert], pur jus",Vitis vinifera L.,Vitaceae,2006-05-31 00:00:00 UTC,2015-04-13 21:45:44 UTC,16.27542
+164,162,Non-alcoholic beverages,Fruit juices - Berry juices,"Muscadine grape [Black], pure juice","Raisin muscadine [Noir], pur jus",Vitis rotundifolia Michx.,Vitaceae,2005-09-29 00:00:00 UTC,2015-04-13 21:45:43 UTC,0.8975
+165,163,Non-alcoholic beverages,Fruit juices - Berry juices,"Muscadine grape [Green], pure juice","Raisin muscadine [Vert], pur jus",Vitis rotundifolia Michx.,Vitaceae,2005-09-29 00:00:00 UTC,2015-04-13 21:45:43 UTC,0.93429
+166,103,Non-alcoholic beverages,Fruit juices - Berry juices,"Red raspberry, pure juice","Framboise rouge, pur jus",Rubus idaeus L.,Rosaceae,2005-02-03 00:00:00 UTC,2015-04-13 21:45:43 UTC,10.29999
+167,71,Non-alcoholic beverages,Fruit juices - Berry juices,"Rowanberry, pure juice","Sorbier, pur jus",Sorbus aucuparia L.,Rosaceae,2005-01-26 00:00:00 UTC,2015-04-13 21:45:43 UTC,86.24
+168,133,Non-alcoholic beverages,Fruit juices - Berry juices,"Sea-buckthornberry, pure juice",Argousier,Hippophae rhamnoides L.,Elaeagnaceae,2005-07-21 00:00:00 UTC,2015-04-13 21:45:43 UTC,38.754999999999995
+169,12,Non-alcoholic beverages,Fruit juices - Citrus juices,"Grapefruit, juice from concentrate",Pomelo,Citrus paradisi,Rutaceae,2004-04-13 10:35:29 UTC,2015-04-13 21:45:42 UTC,402.57249
+170,15,Non-alcoholic beverages,Fruit juices - Citrus juices,"Grapefruit, pure juice","Pomelo, pur jus",Citrus paradisi,Rutaceae,2004-04-13 10:35:29 UTC,2015-04-13 21:45:42 UTC,106.76459
+171,18,Non-alcoholic beverages,Fruit juices - Citrus juices,"Grapefruit/Pummelo hybrid, pure juice","Hybride Pomelo/Pamplemousse, pur jus",Citrus paradisi x Citrus grandis,Rutaceae,2004-05-11 00:00:00 UTC,2015-04-13 21:45:42 UTC,68.90001
+172,195,Non-alcoholic beverages,Fruit juices - Citrus juices,"Lemon, juice from concentrate","Citron, jus à partir de concentré",Citrus limon,Rutaceae,2005-10-13 00:00:00 UTC,2015-04-13 21:45:44 UTC,168.27618999999999
+173,17,Non-alcoholic beverages,Fruit juices - Citrus juices,"Lemon, pure juice","Citron, pur jus",Citrus limon,Rutaceae,2004-05-11 15:33:48 UTC,2015-04-13 21:45:42 UTC,42.224560000000004
+174,206,Non-alcoholic beverages,Fruit juices - Citrus juices,"Lime, pure juice","Citron vert, pur jus",Citrus aurantifolia,Rutaceae,2006-03-30 00:00:00 UTC,2015-04-13 21:45:44 UTC,202.59856
+175,9,Non-alcoholic beverages,Fruit juices - Citrus juices,"Orange [Blond], juice from concentrate","Orange [Blonde], jus à partir de concentré",Citrus sinensis L.,Rutaceae,2004-04-13 10:35:29 UTC,2015-04-13 21:45:42 UTC,71.81846
+176,6,Non-alcoholic beverages,Fruit juices - Citrus juices,"Orange [Blond], pure juice","Orange [Blonde], pur jus",Citrus sinensis L.,Rutaceae,2004-04-13 10:35:29 UTC,2015-04-13 21:45:42 UTC,111.99536
+177,7,Non-alcoholic beverages,Fruit juices - Citrus juices,"Orange [Blood], juice from concentrate","Orange [Sanguine], jus à partir de concentré",Citrus sinensis,Rutaceae,2004-04-13 15:24:33 UTC,2015-04-13 21:45:42 UTC,69.7325
+178,10,Non-alcoholic beverages,Fruit juices - Citrus juices,"Orange [Blood], pure juice","Orange [Sanguine], pur jus",Citrus sinensis,Rutaceae,2004-04-13 15:24:33 UTC,2015-04-13 21:45:42 UTC,180.09078
+179,13,Non-alcoholic beverages,Fruit juices - Citrus juices,"Pummelo, pure juice","Pamplemousse, pur jus",Citrus maxima,Rutaceae,2004-04-13 10:35:29 UTC,2015-04-13 21:45:42 UTC,18.12333
+180,21,Non-alcoholic beverages,Fruit juices - Citrus juices,"Tangerine, juice from concentrate","Mandarine, jus à partir de concentré",Citrus tangerina,Rutaceae,2004-05-11 15:33:48 UTC,2015-04-13 21:45:42 UTC,44.22875
+181,20,Non-alcoholic beverages,Fruit juices - Citrus juices,"Tangerine, pure juice","Mandarine, pur jus",Citrus tangerina,Rutaceae,2004-05-11 15:33:48 UTC,2015-04-13 21:45:42 UTC,0.0
+182,65,Non-alcoholic beverages,Fruit juices - Drupe juices,"Plum, prune, juice from concentrate","Pruneau, jus à partir de concentré",Prunus domestica L.,Rosaceae,2004-12-02 00:00:00 UTC,2015-04-13 21:45:43 UTC,59.4
+183,64,Non-alcoholic beverages,Fruit juices - Drupe juices,"Plum, prune, pure juice","Pruneau, pur jus",Prunus domestica L.,Rosaceae,2004-12-02 00:00:00 UTC,2015-04-13 21:45:43 UTC,50.900000000000006
+184,36,Non-alcoholic beverages,Fruit juices - Pome juices,"Apple [Cider], juice from concentrate","Pomme [Cidre], jus à partir de concentré",Malus domestica,Rosaceae,2004-06-16 14:32:03 UTC,2015-04-13 21:45:42 UTC,7.05783
+185,35,Non-alcoholic beverages,Fruit juices - Pome juices,"Apple [Cider], pure juice","Pomme [Cidre], pur jus",Malus domestica,Rosaceae,2004-06-16 14:32:03 UTC,2015-04-13 21:45:42 UTC,201.79491
+186,26,Non-alcoholic beverages,Fruit juices - Pome juices,"Apple [Dessert], juice from concentrate","Pomme [Dessert], jus à partir de concentré",Malus domestica,Rosaceae,2004-06-16 14:31:51 UTC,2015-04-13 21:45:42 UTC,5.785
+187,25,Non-alcoholic beverages,Fruit juices - Pome juices,"Apple [Dessert], pure juice","Pomme [Dessert], pur jus",Malus domestica,Rosaceae,2004-06-16 14:31:41 UTC,2015-04-13 21:45:42 UTC,103.78091
+188,38,Non-alcoholic beverages,Fruit juices - Pome juices,"Pear, pure juice","Poire, pur jus",Pyrus communis,Rosaceae,2004-11-16 00:00:00 UTC,2015-04-13 21:45:42 UTC,57.56856
+189,922,Non-alcoholic beverages,Fruit juices - Tropical fruit juices,"Kiwi, juice from concentrate","Kiwi, jus à partir de concentré",Actinidia chinensis Planch,Actinidiaceae,2008-04-21 00:00:00 UTC,2015-04-13 21:45:50 UTC,0.334
+190,921,Non-alcoholic beverages,Fruit juices - Tropical fruit juices,"Kiwi, pure juice","Kiwi, pur jus",Actinidia chinensis Planch,Actinidiaceae,2008-04-21 00:00:00 UTC,2015-04-13 21:45:50 UTC,0.56401
+191,164,Non-alcoholic beverages,Fruit juices - Tropical fruit juices,"Pineapple, pure juice","Ananas, pur jus",Ananas comosus L. Merr.,Bromeliaceae,2005-09-29 00:00:00 UTC,2015-04-13 21:45:43 UTC,35.8
+192,917,Non-alcoholic beverages,Fruit juices - Tropical fruit juices,"Pomegranate, juice from concentrate","Grenade, jus à partir de concentré",Punica granatum L.,Lythraceae,2008-04-16 00:00:00 UTC,2015-04-13 21:45:50 UTC,184.46
+193,191,Non-alcoholic beverages,Fruit juices - Tropical fruit juices,"Pomegranate, pure juice","Grenade, pur jus",Punica granatum L.,Lythraceae,2005-10-03 00:00:00 UTC,2015-04-13 21:45:44 UTC,269.77621999999997
+194,4,Non-alcoholic beverages,Herb infusions,"Common sage, tea","Sauge officinale, infusion",Salvia officinalis L.,Lamiaceae,2007-12-12 00:00:00 UTC,2015-04-13 21:45:42 UTC,43.2
+195,857,Non-alcoholic beverages,Herb infusions,"Common thyme, tea","Thym, infusion",Thymus L.,Lamiaceae,2007-12-12 00:00:00 UTC,2015-04-13 21:45:49 UTC,51.1
+196,865,Non-alcoholic beverages,Herb infusions,"Coriander, tea","Coriandre, infusion",Coriandrum sativum L.,Apiaceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,11.9
+197,866,Non-alcoholic beverages,Herb infusions,"Fennel, tea","Fenouil commun, infusion",Foeniculum vulgare Mill.,Apiaceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,29.73071
+198,863,Non-alcoholic beverages,Herb infusions,"German camomile, tea","Camomille sauvage, infusion",Matricaria chamomilla L.,Asteraceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,24.87
+199,867,Non-alcoholic beverages,Herb infusions,"Hyssop, tea","Hysope officinale, infusion",Hyssopus officinalis L.,Lamiaceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,17.0
+200,864,Non-alcoholic beverages,Herb infusions,"Lemon grass, tea","Citronelle de l'Inde, infusion",Cymbopogon citratus,Poaceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,9.8
+201,877,Non-alcoholic beverages,Herb infusions,"Lemon thyme, tea","Thym citron, infusion",Thymus pulegioides L.,Lamiaceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,25.4
+202,872,Non-alcoholic beverages,Herb infusions,"Lemon verbena, tea","Verveine odorante, infusion",Lippia tryphilla Kuntze,Verbenaceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,57.7
+203,870,Non-alcoholic beverages,Herb infusions,"Lovage, tea","Ache des montagnes, infusion",Levisticum officinale,Apiaceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,11.4
+204,869,Non-alcoholic beverages,Herb infusions,"Peppermint, tea","Menthe poivrée, infusion",Mentha piperita var piperita L.,Lamiaceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,41.03
+205,873,Non-alcoholic beverages,Herb infusions,"Roman camomile, tea","Camomille romaine, infusion",Chamaemelum nobile L.,Asteraceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,18.0015
+206,862,Non-alcoholic beverages,Herb infusions,"Rosemary, tea","Romarin, infusion",Rosmarinus officinalis L.,Lamiaceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,35.8
+207,876,Non-alcoholic beverages,Herb infusions,"Small-leaf linden, tea","Tilleul à petites feuilles, infusion",Tilia cordata,Tiliaceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,23.3
+208,868,Non-alcoholic beverages,Herb infusions,"Spearmint, tea","Menthe douce, infusion",Mentha spicata L.,Lamiaceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,35.5
+209,874,Non-alcoholic beverages,Herb infusions,"Sweet basil, tea","Basilic, infusion",Ocimum basilicum L.,Lamiaceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,15.5
+210,871,Non-alcoholic beverages,Herb infusions,"Sweet bay, tea","Laurier-sauce, infusion",Laurus nobilis L.,Lauraceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,16.7
+211,878,Non-alcoholic beverages,Herb infusions,"Tarragon, tea","Estragon, infusion",Artemisia dranunculus,Asteraceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,30.1
+212,875,Non-alcoholic beverages,Herb infusions,"Winter savory, tea","Sariette des montagnes, infusion",Satureja montana L.,Lamiaceae,2007-12-14 00:00:00 UTC,2015-04-13 21:45:49 UTC,26.0
+213,938,Non-alcoholic beverages,Soy drinks,"Soy, milk",Jus de soja,,,2009-05-19 11:20:01 UTC,2015-04-13 21:45:50 UTC,28.29653
+214,207,Non-alcoholic beverages,Tea infusions,"Tea [Black], bottled","Thé [Noir], en bouteille",Camellia sinensis L. Kuntze,Theaceae,2006-03-30 00:00:00 UTC,2015-04-13 21:45:44 UTC,83.83666
+215,30,Non-alcoholic beverages,Tea infusions,"Tea [Black], infusion","Thé [Noir], infusion",Camellia sinensis L. Kuntze,Theaceae,2004-06-16 00:00:00 UTC,2015-04-13 21:45:42 UTC,208.73587
+216,208,Non-alcoholic beverages,Tea infusions,"Tea [Green], bottled","Thé [Vert], en bouteille",Camellia sinensis L. Kuntze,Theaceae,2006-03-30 00:00:00 UTC,2015-04-13 21:45:44 UTC,32.078
+217,29,Non-alcoholic beverages,Tea infusions,"Tea [Green], infusion","Thé [Vert], infusion",Camellia sinensis L. Kuntze,Theaceae,2004-06-16 00:00:00 UTC,2015-04-13 21:45:42 UTC,153.85379
+218,209,Non-alcoholic beverages,Tea infusions,"Tea [Oolong], bottled","Thé [Oolong], en bouteille",Camellia sinensis L. Kuntze,Theaceae,2006-03-30 00:00:00 UTC,2015-04-13 21:45:44 UTC,20.91
+219,31,Non-alcoholic beverages,Tea infusions,"Tea [Oolong], infusion","Thé [Oolong], infusion",Camellia sinensis L. Kuntze,Theaceae,2004-06-16 00:00:00 UTC,2015-04-13 21:45:42 UTC,43.44729
+220,903,Oils,Oils - Cereal oils,"Maize, bran oil",Huile de son de maïs,Zea mays L.,Poaceae,2006-08-16 00:00:00 UTC,2015-04-13 21:45:50 UTC,557.0
+221,822,Oils,Oils - Fruit vegetable oils,"Olive, oil, extra virgin",Huile d'olive vierge extra,Olea europaea L.,Oleaceae,2007-11-19 00:00:00 UTC,2015-04-13 21:45:49 UTC,117.77712
+222,823,Oils,Oils - Fruit vegetable oils,"Olive, oil, refined",Huile d'olive raffinée,Olea europaea L.,Oleaceae,2007-11-19 00:00:00 UTC,2015-04-13 21:45:49 UTC,56.79945
+223,808,Oils,Oils - Fruit vegetable oils,"Olive, oil, virgin",Huile d'olive vierge,Olea europaea L.,Oleaceae,2007-11-07 00:00:00 UTC,2015-04-13 21:45:49 UTC,78.392
+224,714,Oils,Oils - Nut oils,"Peanut, butter","Cacahuète, pâte",Arachis hypogaea L.,Fabaceae,2007-09-26 00:00:00 UTC,2015-04-13 21:45:48 UTC,194.21572
+225,842,Oils,Oils - Other seed oils,"Rape seed, oil",Huile de colza,Brassica napus L.,Brassicaceae,2007-11-30 00:00:00 UTC,2015-04-13 21:45:49 UTC,35.090109999999996
+226,848,Oils,Oils - Other seed oils,"Sesame seed [Black], oil",Huile de sésame [Noir],Sesamum indicum L.,Pedaliaceae,2007-11-19 16:21:34 UTC,2015-04-13 21:45:49 UTC,1223.30324
+227,851,Oils,Oils - Other seed oils,"Sesame seed, oil",Huile de sésame,Sesamum indicum L.,Pedaliaceae,2007-11-19 16:21:34 UTC,2015-04-13 21:45:49 UTC,1300.83639
+228,937,Oils,Oils - Other seed oils,"Soy, oil",Huile de soja,Glycine Max L. Merr.,Fabaceae,2009-05-18 11:14:41 UTC,2015-04-13 21:45:50 UTC,0.7463
+229,825,Oils,Oils - Other seed oils,"Sunflower seed, oil",Huile de tournesol,Helianthus annuus L.,Asteraceae,2007-11-20 00:00:00 UTC,2015-04-13 21:45:49 UTC,1.0
+230,833,Seasonings,Herbs,"Angelica, fresh","Angélique, fraîche",Angelica L.,Apiaceae,2007-11-26 00:00:00 UTC,2015-04-13 21:45:49 UTC,68.54286
+231,791,Seasonings,Herbs,"Anise herb, dried","Anis vert, séché",Pimpinella anisum L.,Apiaceae,2007-11-01 00:00:00 UTC,2015-04-13 21:45:49 UTC,183.1
+232,348,Seasonings,Herbs,"Celery leaves, fresh","Feuilles de céleri, fraîches",Apium graveolens L. var. secalineum,Apiaceae,2006-08-17 00:00:00 UTC,2015-04-13 21:45:45 UTC,208.5
+233,476,Seasonings,Herbs,"Chinese chives, fresh","Ciboule de Chine, fraîche",Allium odurum L.,Alliaceae,2006-09-20 00:00:00 UTC,2015-04-13 21:45:46 UTC,1.9
+234,762,Seasonings,Herbs,"Chives, fresh","Ciboulette, fraîche",Allium schoenoprasum L.,Alliaceae,2007-10-17 00:00:00 UTC,2015-04-13 21:45:48 UTC,99.295
+235,743,Seasonings,Herbs,"Common sage, dried","Sauge officinale, séchée",Salvia officinalis L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,4136.2238099999995
+236,735,Seasonings,Herbs,"Common sage, fresh","Sauge officinale, fraîche",Salvia officinalis L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,379.09
+237,763,Seasonings,Herbs,"Common thyme, dried",Thym commun,Thymus L.,Lamiaceae,2007-10-17 00:00:00 UTC,2015-04-13 21:45:48 UTC,2749.875
+238,736,Seasonings,Herbs,"Common thyme, fresh","Thym commun, frais",Thymus L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,1393.08334
+239,829,Seasonings,Herbs,"Common verbena, fresh","Verveine officinale, fraîche",Verbena officinalis L.,Verbenaceae,2007-11-23 00:00:00 UTC,2015-04-13 21:45:49 UTC,2155.0
+240,790,Seasonings,Herbs,"Coriander, dried","Coriandre, séchée",Coriandrum sativum L.,Apiaceae,2007-11-01 00:00:00 UTC,2015-04-13 21:45:49 UTC,2263.6
+241,771,Seasonings,Herbs,"Coriander, fresh","Coriandre, fraîche",Coriandrum sativum L.,Apiaceae,2007-10-22 00:00:00 UTC,2015-04-13 21:45:49 UTC,201.14
+242,784,Seasonings,Herbs,"Dill, dried","Aneth odorant, séché",Anethum graveolens L.,Apiaceae,2007-10-22 00:00:00 UTC,2015-04-13 21:45:49 UTC,1287.6
+243,761,Seasonings,Herbs,"Dill, fresh","Aneth odorant, frais",Anethum graveolens L.,Apiaceae,2007-10-17 00:00:00 UTC,2015-04-13 21:45:48 UTC,334.19667000000004
+244,792,Seasonings,Herbs,"Fennel, dried","Fenouil commun, séché",Foeniculum vulgare Mill.,Apiaceae,2007-11-01 00:00:00 UTC,2015-04-13 21:45:49 UTC,17.0
+245,748,Seasonings,Herbs,"Fennel, fresh leaves","Fenouil commun, feuilles fraîches",Foeniculum vulgare Mill.,Apiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,609.74001
+246,844,Seasonings,Herbs,"Fenugreek, dried","Fenugrec, séché",Trigonella foenum-graecum L.,Fabaceae,2007-12-05 00:00:00 UTC,2015-04-13 21:45:49 UTC,2250.0
+247,767,Seasonings,Herbs,"Fenugreek, fresh","Fenugrec, frais",Trigonella foenum-graecum L.,Fabaceae,2007-10-22 00:00:00 UTC,2015-04-13 21:45:49 UTC,219.29999999999998
+248,329,Seasonings,Herbs,"Garlic, fresh","Ail, frais",Allium sativum L.,Alliaceae,2006-08-11 00:00:00 UTC,2015-04-13 21:45:45 UTC,125.3497
+249,788,Seasonings,Herbs,"German camomile, dried","Camomille sauvage, séchée",Matricaria chamomilla L.,Asteraceae,2007-11-01 00:00:00 UTC,2015-04-13 21:45:49 UTC,1014.8
+250,741,Seasonings,Herbs,"Hyssop, dried","Hysope officinale, séchée",Hyssopus officinalis L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,1649.3
+251,777,Seasonings,Herbs,"Hyssop, fresh","Hysope officinale, fraîche",Hyssopus officinalis L.,Lamiaceae,2007-10-22 00:00:00 UTC,2015-04-13 21:45:49 UTC,214.5
+252,753,Seasonings,Herbs,"Italian oregano, fresh","Origan de Majorque, frais",Origanum x majoricum,Lamiaceae,2007-10-17 00:00:00 UTC,2015-04-13 21:45:48 UTC,1382.20001
+253,733,Seasonings,Herbs,"Lemon balm, dried","Citronelle, séchée",Melissa officinalis L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,1767.3
+254,730,Seasonings,Herbs,"Lemon balm, fresh","Citronelle, fraîche",Melissa officinalis L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,899.71429
+255,745,Seasonings,Herbs,"Lemon grass, fresh","Citronelle de l'Inde, fraîche",Cymbopogon citratus,Poaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,662.0
+256,754,Seasonings,Herbs,"Lemon thyme, fresh","Thym citron, frais",Thymus pulegioides L.,Lamiaceae,2007-10-17 00:00:00 UTC,2015-04-13 21:45:48 UTC,178.0
+257,787,Seasonings,Herbs,"Lemon verbena, dried","Verveine odorante, séchée",Lippia tryphilla Kuntze,Verbenaceae,2007-10-22 00:00:00 UTC,2015-04-13 21:45:49 UTC,106.00998
+258,746,Seasonings,Herbs,"Lemon verbena, fresh","Verveine odorante, fraîche",Lippia tryphilla Kuntze,Verbenaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,462.85001
+259,751,Seasonings,Herbs,"Lovage, fresh","Ache des montagnes, fraîche",Levisticum officinale,Apiaceae,2007-10-17 00:00:00 UTC,2015-04-13 21:45:48 UTC,440.0
+260,742,Seasonings,Herbs,"Marjoram, dried","Marjolaine, séchée",Origanum marjorana L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,3885.8
+261,778,Seasonings,Herbs,"Marjoram, fresh","Marjolaine, fraîche",Origanum marjorana L.,Lamiaceae,2007-10-22 00:00:00 UTC,2015-04-13 21:45:49 UTC,854.0
+262,796,Seasonings,Herbs,"Mexican oregano, dried","Origan Américain, séché",Lippia graveolens H.B.K.,Verbenaceae,2007-11-01 00:00:00 UTC,2015-04-13 21:45:49 UTC,2319.84332
+263,752,Seasonings,Herbs,"Orange mint, fresh","Menthe aquatique, fraîche",Mentha aquatica,Lamiaceae,2007-10-17 00:00:00 UTC,2015-04-13 21:45:48 UTC,226.0
+264,731,Seasonings,Herbs,"Oregano, dried (wild marjoram)","Origan, séché",Origanum vulgare L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,3781.291
+265,728,Seasonings,Herbs,"Oregano, fresh (wild marjoram)","Origan, frais",Origanum vulgare L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,939.84286
+266,465,Seasonings,Herbs,"Parsley, dried","Persil, séché",Petroselinum crispum Mill.,Apiaceae,2006-09-14 00:00:00 UTC,2015-04-13 21:45:46 UTC,1647.07167
+267,755,Seasonings,Herbs,"Parsley, fresh","Persil, frais",Petroselinum crispum Mill.,Apiaceae,2007-10-17 00:00:00 UTC,2015-04-13 21:45:48 UTC,409.91999999999996
+268,732,Seasonings,Herbs,"Peppermint, dried","Menthe poivrée, séchée",Mentha piperita var piperita L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,11960.54523
+269,729,Seasonings,Herbs,"Peppermint, fresh","Menthe poivrée, fraîche",Mentha piperita var piperita L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,980.3625
+270,756,Seasonings,Herbs,"Pineapple sage, fresh","Sauge ananas, fraîche",Salvia elegans Vahl.,Lamiaceae,2007-10-17 00:00:00 UTC,2015-04-13 21:45:48 UTC,131.0
+271,737,Seasonings,Herbs,"Pot marjoram, dried","Marjolaine potagère, séchée",Origanum onites L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,9306.0
+272,453,Seasonings,Herbs,"Purslane, fresh","Pourpier, frais",Portulaca olearacea L.,Portulaceae,2006-09-13 00:00:00 UTC,2015-04-13 21:45:46 UTC,0.0
+273,850,Seasonings,Herbs,"Roman camomile, dried","Camomille romaine, séchée",Chamaemelum nobile L.,Asteraceae,2007-12-10 00:00:00 UTC,2015-04-13 21:45:49 UTC,2483.0
+274,744,Seasonings,Herbs,"Rosemary, dried","Romarin, séché",Rosmarinus officinalis L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,3554.4000100000003
+275,734,Seasonings,Herbs,"Rosemary, fresh","Romarin, frais",Rosmarinus officinalis L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,2145.52337
+276,789,Seasonings,Herbs,"Silver linden, dried","Tilleul argenté, séché",Tilia argentea,Tiliaceae,2007-11-01 00:00:00 UTC,2015-04-13 21:45:49 UTC,121.7
+277,794,Seasonings,Herbs,"Sorrel, dried","Oseille, séchée",Rumex acetosa L.,Polygonaceae,2007-11-01 00:00:00 UTC,2015-04-13 21:45:49 UTC,350.0
+278,764,Seasonings,Herbs,"Spearmint, dried","Menthe douce, séchée",Mentha spicata L.,Lamiaceae,2007-10-17 00:00:00 UTC,2015-04-13 21:45:48 UTC,7545.56667
+279,757,Seasonings,Herbs,"Spearmint, fresh","Menthe douce, fraîche",Mentha spicata L.,Lamiaceae,2007-10-17 00:00:00 UTC,2015-04-13 21:45:48 UTC,246.89999
+280,738,Seasonings,Herbs,"Summer savory, dried","Sariette des jardins, séchée",Satureja hortensis L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,4512.0
+281,776,Seasonings,Herbs,"Summer savory, fresh","Sariette des jardins, fraîche",Satureja hortensis L.,Lamiaceae,2007-10-22 00:00:00 UTC,2015-04-13 21:45:49 UTC,201.2
+282,740,Seasonings,Herbs,"Sweet basil, dried","Basilic, séché",Ocimum basilicum L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,4650.03079
+283,759,Seasonings,Herbs,"Sweet basil, fresh","Basilic, frais",Ocimum basilicum L.,Lamiaceae,2007-10-17 00:00:00 UTC,2015-04-13 21:45:48 UTC,231.8
+284,839,Seasonings,Herbs,"Sweet bay, dried","Laurier-sauce, sec",Laurus nobilis L.,Lauraceae,2007-11-30 00:00:00 UTC,2015-04-13 21:45:49 UTC,4170.0
+285,758,Seasonings,Herbs,"Sweet bay, fresh","Laurier-sauce, frais",Laurus nobilis L.,Lauraceae,2007-10-17 00:00:00 UTC,2015-04-13 21:45:48 UTC,402.0
+286,774,Seasonings,Herbs,"Tarragon, fresh","Estragon, frais",Artemisia dranunculus,Asteraceae,2007-10-22 00:00:00 UTC,2015-04-13 21:45:49 UTC,597.0
+287,466,Seasonings,Herbs,"Watercress, fresh","Cresson d'eau, frais",Nasturtium officinale,Brassicaceae,2006-09-14 00:00:00 UTC,2015-04-13 21:45:46 UTC,5.02546
+288,477,Seasonings,Herbs,"Welsh onion, fresh","Ciboule, fraîche",Allium fistulosum L.,Alliaceae,2006-09-20 00:00:00 UTC,2015-04-13 21:45:46 UTC,0.10207
+289,451,Seasonings,Herbs,"Wild turnip tops, fresh","Navette, fraîche",Brassica rapa var. campestris,Brassicaceae,2006-09-13 00:00:00 UTC,2015-04-13 21:45:46 UTC,107.48334
+290,739,Seasonings,Herbs,"Winter savory, dried","Sariette des montagnes, séchée",Satureja montana L.,Lamiaceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,1880.0
+291,760,Seasonings,Herbs,"Winter savory, fresh","Sariette des montagnes, fraîche",Satureja montana L.,Lamiaceae,2007-10-17 00:00:00 UTC,2015-04-13 21:45:48 UTC,316.0
+292,941,Seasonings,Other seasonings,Soy sauce,Sauce de soja,,,2009-06-04 15:01:53 UTC,2015-04-13 21:45:50 UTC,3.1580500000000002
+293,140,Seasonings,Other seasonings,Vinegar,Vinaigre,,,2005-09-07 00:00:00 UTC,2015-04-13 21:45:43 UTC,12.64099
+294,786,Seasonings,Spices,Capers,Capres,Capparis spinosa L.,Capparaceae,2007-10-22 00:00:00 UTC,2015-04-13 21:45:49 UTC,4254.75589
+295,804,Seasonings,Spices,Caraway,Carvi,Carum carvi L.,Apiaceae,2007-11-07 00:00:00 UTC,2015-04-13 21:45:49 UTC,2946.13333
+296,780,Seasonings,Spices,Cardamom,Cardamome,Elettaria cardamomum L.,Zingiberaceae,2007-10-22 00:00:00 UTC,2015-04-13 21:45:49 UTC,602.66
+297,807,Seasonings,Spices,Celery seed,"Celeri, graine",Apium graveolens L.,Apiaceae,2007-11-07 00:00:00 UTC,2015-04-13 21:45:49 UTC,2094.0
+298,830,Seasonings,Spices,Ceylan cinnamon,Cannelle de Ceylan,Cinnamomum versum J. S. Presl.,Lauraceae,2007-11-23 00:00:00 UTC,2015-04-13 21:45:49 UTC,9727.395
+299,879,Seasonings,Spices,Chinese cinnamon,Cannelle de Chine,Cinnamomum cassia Presl.,Lauraceae,2007-12-17 00:00:00 UTC,2015-04-13 21:45:49 UTC,47.96
+300,797,Seasonings,Spices,Cloves,Clous de girofle,Syzygium aromaticum,Myrtaceae,2007-11-02 00:00:00 UTC,2015-04-13 21:45:49 UTC,31235.724150000002
+301,490,Seasonings,Spices,Coriander seed,Coriandre,Coriandrum sativum L.,Apiaceae,2006-09-26 00:00:00 UTC,2015-04-13 21:45:46 UTC,357.36
+302,779,Seasonings,Spices,Cumin,Cumin,Cuminum cyminum L.,Apiaceae,2007-10-22 00:00:00 UTC,2015-04-13 21:45:49 UTC,2108.83333
+303,769,Seasonings,Spices,Fenugreek seed,"Fenugrec, graine",Trigonella foenum-graecum L.,Fabaceae,2007-10-22 00:00:00 UTC,2015-04-13 21:45:49 UTC,860.26
+304,785,Seasonings,Spices,"Ginger, dried","Gingembre, séché",Zingiber P. Mill,Zingiberaceae,2007-10-22 00:00:00 UTC,2015-04-13 21:45:49 UTC,676.3
+305,775,Seasonings,Spices,"Ginger, fresh","Gingembre, frais",Zingiber P. Mill,Zingiberaceae,2007-10-22 00:00:00 UTC,2015-04-13 21:45:49 UTC,204.68
+306,793,Seasonings,Spices,"Horseradish, dried","Raifort, sec",Armoracia rusticana,Brassicaceae,2007-11-01 00:00:00 UTC,2015-04-13 21:45:49 UTC,90.01
+307,845,Seasonings,Spices,"Horseradish, fresh","Raifort, frais",Armoracia rusticana,Brassicaceae,2007-12-05 00:00:00 UTC,2015-04-13 21:45:49 UTC,2.77
+308,831,Seasonings,Spices,Nutmeg,Muscade,Myristica fragans Houtt.,Myristicaceae,2007-11-23 00:00:00 UTC,2015-04-13 21:45:49 UTC,1921.338
+309,832,Seasonings,Spices,Nutmeg [Mace],"Muscade ""Mace""",Myristica fragans Houtt.,Myristicaceae,2007-11-23 00:00:00 UTC,2015-04-13 21:45:49 UTC,0.38
+310,798,Seasonings,Spices,Pepper spice [Black],Poivre [Noir],Piper nigrum L.,Piperaceae,2007-11-05 09:45:36 UTC,2015-04-13 21:45:49 UTC,1000.0
+311,838,Seasonings,Spices,Pepper spice [Green],Poivre [Vert],Piper nigrum L.,Piperaceae,2007-11-26 00:00:00 UTC,2015-04-13 21:45:49 UTC,380.0
+312,837,Seasonings,Spices,Pepper spice [White],Poivre [Blanc],Piper nigrum L.,Piperaceae,2007-11-26 00:00:00 UTC,2015-04-13 21:45:49 UTC,780.0
+313,805,Seasonings,Spices,Saffron,Safran,Crocus sativus L.,Iridaceae,2007-11-07 00:00:00 UTC,2015-04-13 21:45:49 UTC,509.98749
+314,835,Seasonings,Spices,Star anise,Badiane chinoise,Illicium verum Hook. f.,Illiciaceae,2007-11-26 00:00:00 UTC,2015-04-13 21:45:49 UTC,7270.2999
+315,799,Seasonings,Spices,"Turmeric, dried","Curcuma, séché",Curcuma longa L.,Zingiberaceae,2007-11-05 00:00:00 UTC,2015-04-13 21:45:49 UTC,7550.57143
+316,834,Seasonings,Spices - Spice blends,"Curry, powder","Curry, poudre",Murraya koenigii L.,,2007-11-26 00:00:00 UTC,2015-04-13 21:45:49 UTC,1360.26316
+317,712,Seeds,Nuts,Almond,Amande,Prunus dulcis,Rosaceae,2007-09-26 00:00:00 UTC,2015-04-13 21:45:48 UTC,472.39653000000004
+318,722,Seeds,Nuts,"Almond, dehulled","Amande, émondée",Prunus dulcis,Rosaceae,2007-10-02 00:00:00 UTC,2015-04-13 21:45:48 UTC,61.92545
+319,708,Seeds,Nuts,Brazil nut,Noix du Bresil,Bertholletia excelsia,Lecythidaceae,2007-09-26 00:00:00 UTC,2015-04-13 21:45:48 UTC,244.78
+320,709,Seeds,Nuts,"Cashew nut, raw",Noix de cajou,Anacardium occidentale L.,Anacardiaceae,2007-09-26 00:00:00 UTC,2015-04-13 21:45:48 UTC,292.3325
+321,467,Seeds,Nuts,"Chestnut, raw","Châtaigne, crue",Castanea P. Mill,Fagaceae,2006-09-14 00:00:00 UTC,2015-04-13 21:45:46 UTC,3972.15571
+322,710,Seeds,Nuts,"Hazelnut, raw","Noisette, crue",Corylus L.,Betulaceae,2007-09-26 00:00:00 UTC,2015-04-13 21:45:48 UTC,1168.3668899999998
+323,727,Seeds,Nuts,Japanese walnut,Noix du Japon,Juglans ailanthifolia Carr.,Juglandaceae,2007-10-05 00:00:00 UTC,2015-04-13 21:45:48 UTC,251.07334000000003
+324,723,Seeds,Nuts,Macadamia nut,Noix de Macadamia,Macadamia intergrifolia/tetraphylla,Proteaceae,2007-10-02 00:00:00 UTC,2015-04-13 21:45:48 UTC,126.0
+325,475,Seeds,Nuts,Peanut,Cacahuète,Arachis hypogaea L.,Fabaceae,2006-09-19 00:00:00 UTC,2015-04-13 21:45:46 UTC,413.7369
+326,716,Seeds,Nuts,"Peanut, dehulled","Cacahuète, émondée",Arachis hypogaea L.,Fabaceae,2007-09-27 00:00:00 UTC,2015-04-13 21:45:48 UTC,103.91233
+327,717,Seeds,Nuts,"Peanut, dehulled, roasted","Cacahuète, torréfiée, émondée",Arachis hypogaea L.,Fabaceae,2007-09-27 00:00:00 UTC,2015-04-13 21:45:48 UTC,50.0968
+328,713,Seeds,Nuts,"Peanut, roasted","Cacahuète, torréfiée",Arachis hypogaea L.,Fabaceae,2007-09-26 00:00:00 UTC,2015-04-13 21:45:48 UTC,10.773869999999999
+329,707,Seeds,Nuts,Pecan nut,Noix de Pecan,Caryna illinoinensis,Juglandaceae,2007-09-26 00:00:00 UTC,2015-04-13 21:45:48 UTC,1777.42275
+330,724,Seeds,Nuts,Pines,Pin,Pinus L.,Pinaceae,2007-10-02 00:00:00 UTC,2015-04-13 21:45:48 UTC,58.241820000000004
+331,711,Seeds,Nuts,Pistachio,Pistache,Pistacia vera L.,Anacardiaceae,2007-09-26 00:00:00 UTC,2015-04-13 21:45:48 UTC,1654.8234300000001
+332,721,Seeds,Nuts,"Pistachio, dehulled","Pistache, émondée",Pistacia vera L.,Anacardiaceae,2007-10-02 00:00:00 UTC,2015-04-13 21:45:48 UTC,0.40571
+333,184,Seeds,Nuts,Walnut,Noix,Juglans regia L.,Juglandaceae,2005-09-29 15:33:11 UTC,2015-04-13 21:45:44 UTC,2178.33117
+334,719,Seeds,Nuts,"Walnut, dehulled","Noix, émondée",Juglans regia L.,Juglandaceae,2007-09-28 00:00:00 UTC,2015-04-13 21:45:48 UTC,54.647
+335,809,Seeds,Other seeds,"Flaxseed, meal","Graine de lin, farine",Linum usitatissimum L.,Linaceae,2007-11-13 15:49:06 UTC,2015-04-13 21:45:49 UTC,956.8708300000001
+336,815,Seeds,Other seeds,"Poppy seed, meal","Graine de pavot, farine",Papaver  L.,Papaveraceae,2007-11-19 16:21:34 UTC,2015-04-13 21:45:49 UTC,0.02
+337,847,Seeds,Other seeds,"Sesame seed, meal","Graine de sésame, farine",Sesamum indicum L.,Pedaliaceae,2007-11-19 16:21:34 UTC,2015-04-13 21:45:49 UTC,931.07722
+338,812,Seeds,Other seeds,"Sunflower seed, meal","Graine de tournesol, farine",Helianthus annuus L.,Asteraceae,2007-11-14 13:48:53 UTC,2015-04-13 21:45:49 UTC,464.35150000000004
+339,544,Seeds,Pulses - Beans - Common bean,"Common bean [Black], dehulled, raw","Haricot commun [Noir], émondé, cru",Phaseolus vulgaris L.,Fabaceae,2007-03-26 00:00:00 UTC,2015-04-13 21:45:47 UTC,4846.44143
+340,542,Seeds,Pulses - Beans - Common bean,"Common bean [Black], whole, raw","Haricot commun [Noir], entier, cru",Phaseolus vulgaris L.,Fabaceae,2007-03-26 00:00:00 UTC,2015-04-13 21:45:47 UTC,1490.06273
+341,583,Seeds,Pulses - Beans - Common bean,"Common bean [Others], dehulled, raw","Haricot commun [Autres], émondé, cru",Phaseolus vulgaris L.,Fabaceae,2007-06-12 00:00:00 UTC,2015-04-13 21:45:47 UTC,5488.20273
+342,585,Seeds,Pulses - Beans - Common bean,"Common bean [Others], whole, raw","Haricot commun [Autres], entier, cru",Phaseolus vulgaris L.,Fabaceae,2007-06-12 00:00:00 UTC,2015-04-13 21:45:47 UTC,1923.38047
+343,545,Seeds,Pulses - Beans - Common bean,"Common bean [White], dehulled, raw","Haricot commun [White], émondé, cru",Phaseolus vulgaris L.,Fabaceae,2007-03-26 00:00:00 UTC,2015-04-13 21:45:47 UTC,213.70333000000002
+344,543,Seeds,Pulses - Beans - Common bean,"Common bean [White], whole, raw","Haricot commun [White], entier, cru",Phaseolus vulgaris L.,Fabaceae,2007-03-26 00:00:00 UTC,2015-04-13 21:45:47 UTC,240.95598999999999
+345,563,Seeds,Pulses - Beans - Other  beans,"Adzuki bean, whole, raw","Haricot rouge du Japon, entier, cru",Vigna angularis,Fabaceae,2007-04-10 00:00:00 UTC,2015-04-13 21:45:47 UTC,8970.0
+346,573,Seeds,Pulses - Beans - Other  beans,"Broad bean seed, dehulled, raw","Fèves, émondées, crues",Vicia faba L.,Fabaceae,2007-05-29 00:00:00 UTC,2015-04-13 21:45:47 UTC,36.300000000000004
+347,564,Seeds,Pulses - Beans - Other  beans,"Broad bean seed, whole, raw","Fèves, entières, crues",Vicia faba L.,Fabaceae,2007-04-10 00:00:00 UTC,2015-04-13 21:45:47 UTC,1088.43589
+348,602,Seeds,Pulses - Beans - Other  beans,"Climbing bean, whole, raw","Haricot riz, entier, cru",Vigna umbellata,Fabaceae,2007-06-27 00:00:00 UTC,2015-04-13 21:45:47 UTC,109.0
+349,576,Seeds,Pulses - Beans - Other  beans,"Lima bean, dehulled, raw","Haricot de Lima, émondé, cru",Phaseolus lunatus var. linatus,Fabaceae,2007-05-29 00:00:00 UTC,2015-04-13 21:45:47 UTC,8.8
+350,669,Seeds,Pulses - Beans - Other  beans,"Lima bean, whole, raw","Haricot de Lima, entier, cru",Phaseolus lunatus var. linatus,Fabaceae,2007-07-31 00:00:00 UTC,2015-04-13 21:45:48 UTC,96.0
+351,571,Seeds,Pulses - Beans - Other  beans,"Mung bean, dehulled, raw","Haricot mungo, émondé, cru",Vigna radiata L.,Fabaceae,2007-05-29 00:00:00 UTC,2015-04-13 21:45:47 UTC,1.8
+352,580,Seeds,Pulses - Beans - Other  beans,"Mung bean, whole, raw","Haricot mungo, entier, cru",Vigna radiata L.,Fabaceae,2007-06-05 00:00:00 UTC,2015-04-13 21:45:47 UTC,0.18
+353,566,Seeds,Pulses - Lentils,"Lentils, dehulled, raw","Lentilles, émondées, crues",Lens culinaris,Fabaceae,2007-05-15 00:00:00 UTC,2015-04-13 21:45:47 UTC,1.3925
+354,470,Seeds,Pulses - Lentils,"Lentils, whole, raw","Lentilles, entières, crues",Lens culinaris,Fabaceae,2006-09-14 00:00:00 UTC,2015-04-13 21:45:46 UTC,3707.05499
+355,578,Seeds,Pulses - Peas,"Chickpea, dehulled, raw","Pois chiche, émondé, cru",Cicer arietinum ssp. Arietinum,Fabaceae,2007-05-29 00:00:00 UTC,2015-04-13 21:45:47 UTC,9.5
+356,581,Seeds,Pulses - Peas,"Chickpea, whole, raw","Pois chiche, entier, cru",Cicer arietinum ssp. Arietinum,Fabaceae,2007-06-11 00:00:00 UTC,2015-04-13 21:45:47 UTC,0.002
+357,577,Seeds,Pulses - Peas,"Cowpea, dehulled, raw","Pois, émondé, cru",Vigna unguiculata spp.,Fabaceae,2007-05-29 00:00:00 UTC,2015-04-13 21:45:47 UTC,16.3
+358,561,Seeds,Pulses - Peas,"Cowpea, whole, raw","Pois, entier, cru",Vigna unguiculata spp.,Fabaceae,2007-04-10 00:00:00 UTC,2015-04-13 21:45:47 UTC,19.4
+359,572,Seeds,Pulses - Peas,"Dried pea, dehulled, raw","Pois cassé, émondé, cru",Pisum sativum L.,Fabaceae,2007-05-29 00:00:00 UTC,2015-04-13 21:45:47 UTC,18.700000000000003
+360,650,Seeds,Pulses - Peas,"Dried pea, whole, raw","Pois cassé, entier, cru",Pisum sativum L.,Fabaceae,2007-07-12 00:00:00 UTC,2015-04-13 21:45:47 UTC,140.95238
+361,569,Seeds,Pulses - Peas,"Grass pea, whole, raw","Pois carré, entier, cru",Lathyrus sativus L.,Fabaceae,2007-05-21 00:00:00 UTC,2015-04-13 21:45:47 UTC,0.0
+362,574,Seeds,Pulses - Peas,"Pigeon pea, dehulled, raw","Pois cajan, émondé, cru",Cajanus cajan L.,Fabaceae,2007-05-29 00:00:00 UTC,2015-04-13 21:45:47 UTC,1.8
+363,568,Seeds,Pulses - Peas,"Pigeon pea, whole, raw","Pois cajan, entier, cru",Cajanus cajan L.,Fabaceae,2007-05-15 00:00:00 UTC,2015-04-13 21:45:47 UTC,185.85714
+364,945,Seeds,Soy and soy products,"Soy paste, cheonggukang","Pâte de soja, cheonggukang",,,2009-05-19 11:31:25 UTC,2015-04-13 21:45:50 UTC,264.40167
+365,944,Seeds,Soy and soy products,"Soy paste, doenjang","Pâte de soja, doenjang",,,2009-05-19 11:31:25 UTC,2015-04-13 21:45:50 UTC,5.575
+366,942,Seeds,Soy and soy products,"Soy paste, miso","Pâte de soja, miso",,,2009-05-19 11:31:25 UTC,2015-04-13 21:45:50 UTC,75.81663
+367,943,Seeds,Soy and soy products,"Soy paste, nato","Pâte de soja, nato",,,2009-05-19 11:31:25 UTC,2015-04-13 21:45:50 UTC,103.89706
+368,961,Seeds,Soy and soy products,"Soy, bacon bits","Soja, bacon bits",,,2006-09-15 00:00:00 UTC,2015-04-13 21:45:50 UTC,100.62409000000001
+369,954,Seeds,Soy and soy products,"Soy, burger, raw","Soja, burger, cru",,,2009-07-08 11:04:50 UTC,2015-04-13 21:45:50 UTC,15.67938
+370,962,Seeds,Soy and soy products,"Soy, cheese","Soja, fromage",,,2006-09-15 00:00:00 UTC,2015-04-13 21:45:50 UTC,71.48750000000001
+371,949,Seeds,Soy and soy products,"Soy, defatted flour","Soja, farine, dégraissée",,,2009-06-12 10:20:47 UTC,2015-04-13 21:45:50 UTC,59.9
+372,955,Seeds,Soy and soy products,"Soy, flakes","Soja, pétales",,,2009-07-08 11:04:50 UTC,2015-04-13 21:45:50 UTC,21.13
+373,947,Seeds,Soy and soy products,"Soy, flour","Soja, farine",,,2009-05-19 11:31:25 UTC,2015-04-13 21:45:50 UTC,572.56408
+374,939,Seeds,Soy and soy products,"Soy, meat","Soja, viande",,,2009-05-19 11:31:25 UTC,2015-04-13 21:45:50 UTC,87.78428
+375,950,Seeds,Soy and soy products,"Soy, milk powder","Jus de soja, poudre",,,2009-06-17 12:28:33 UTC,2015-04-13 21:45:50 UTC,83.47075
+376,957,Seeds,Soy and soy products,"Soy, pudding","Soja, pudding",,,2009-07-08 11:04:50 UTC,2015-04-13 21:45:50 UTC,37.16
+377,951,Seeds,Soy and soy products,"Soy, sausage","Soja, saucisse",,,2009-07-08 11:04:50 UTC,2015-04-13 21:45:50 UTC,32.055839999999996
+378,952,Seeds,Soy and soy products,"Soy, tempe","Soja, tempe",,,2009-07-08 11:04:50 UTC,2015-04-13 21:45:50 UTC,166.00472
+379,826,Seeds,Soy and soy products,"Soy, tofu","Soja, tofu",,,2007-11-20 11:24:20 UTC,2015-04-13 21:45:49 UTC,59.5785
+380,963,Seeds,Soy and soy products,"Soy, tofu, fermented","Soja, tofu, fermenté",,,2006-09-15 00:00:00 UTC,2015-04-13 21:45:50 UTC,19.47491
+381,959,Seeds,Soy and soy products,"Soy, yogurt","Soja, yaourt",,,2009-07-08 11:04:50 UTC,2015-04-13 21:45:50 UTC,94.55017000000001
+382,948,Seeds,Soy and soy products,"Soybean, edamame","Soja, edamame",Glycine Max L. Merr.,Fabaceae,2009-06-11 10:07:42 UTC,2015-04-13 21:45:50 UTC,71.57557
+383,953,Seeds,Soy and soy products,"Soybean, roasted","Soja, grillé",Glycine Max L. Merr.,Fabaceae,2009-07-08 11:04:50 UTC,2015-04-13 21:45:50 UTC,321.73606
+384,472,Seeds,Soy and soy products,"Soybean, sprout, raw","Soja, germes, crus",Glycine Max L. Merr.,Fabaceae,2006-09-15 00:00:00 UTC,2015-04-13 21:45:46 UTC,60.946020000000004
+385,362,Vegetables,Cabbages,"Black cabbage, raw","Chou fourrager, cru",Brassica oleracea var. viridis L.,Brassicaceae,2006-08-17 00:00:00 UTC,2015-04-13 21:45:45 UTC,108.6
+386,263,Vegetables,Cabbages,"Broccoli, raw","Brocoli, cru",Brassica oleracea var. italica,Brassicaceae,2006-06-27 11:31:30 UTC,2015-04-13 21:45:44 UTC,383.79385
+387,333,Vegetables,Cabbages,"Brussel sprouts, raw","Chou de Bruxelles, cru",Brassica oleracea. var. gemmifera L.,Brassicaceae,2006-08-11 00:00:00 UTC,2015-04-13 21:45:45 UTC,294.53553999999997
+388,264,Vegetables,Cabbages,"Cauliflower, raw","Chou-fleur, cru",Brassica oleracea var. botrytis L.,Brassicaceae,2006-06-27 11:31:30 UTC,2015-04-13 21:45:44 UTC,108.54586
+389,363,Vegetables,Cabbages,"Collards, raw","Collards, cru",Brassica oleracea var. viridis L.,Brassicaceae,2006-08-21 00:00:00 UTC,2015-04-13 21:45:45 UTC,0.0863
+390,282,Vegetables,Cabbages,"Common cabbage [Green], raw","Chou [Vert], cru",Brassica oleracea var. capitata L.,Brassicaceae,2006-07-12 00:00:00 UTC,2015-04-13 21:45:44 UTC,88.75056000000001
+391,271,Vegetables,Cabbages,"Common cabbage [Purple], raw","Chou [Violet], cru",Brassica oleracea var. capitata L.,Brassicaceae,2006-06-27 11:31:30 UTC,2015-04-13 21:45:44 UTC,0.13
+392,283,Vegetables,Cabbages,"Common cabbage [Red], raw","Chou [Rouge], cru",Brassica oleracea var. capitata L.,Brassicaceae,2006-07-12 00:00:00 UTC,2015-04-13 21:45:44 UTC,478.76509
+393,265,Vegetables,Cabbages,"Common cabbage [White], raw","Chou [Blanc], cru",Brassica oleracea var. capitata L.,Brassicaceae,2006-06-27 11:31:30 UTC,2015-04-13 21:45:44 UTC,94.63110999999999
+394,491,Vegetables,Cabbages,"Italian cabbage, raw","Chou d'Italie, cru",Brassica oleracea var. sabauda L.??,Brassicaceae,2006-09-27 00:00:00 UTC,2015-04-13 21:45:46 UTC,108.0
+395,273,Vegetables,Cabbages,"Kai-lan, raw","Brocoli chinois, cru",Brassica oleracea var. alboglabra L.,Brassicaceae,2006-06-27 11:31:30 UTC,2015-04-13 21:45:44 UTC,0.079
+396,287,Vegetables,Cabbages,"Kale [Curly], raw","Chou frisé, cru",Brassica oleracea var. viridis L.,Brassicaceae,2006-07-12 00:00:00 UTC,2015-04-13 21:45:44 UTC,232.10001
+397,276,Vegetables,Cabbages,"Kale, raw","Chou frisé, cru",Brassica oleracea var. viridis L.,Brassicaceae,2006-06-27 11:31:30 UTC,2015-04-13 21:45:44 UTC,211.11417
+398,291,Vegetables,Cabbages,"Mustard cabbage, raw","Moutarde de Chine, crue",Brassica juncea var. rugosa,Brassicaceae,2006-07-13 00:00:00 UTC,2015-04-13 21:45:44 UTC,183.0
+399,461,Vegetables,Cabbages,"Oxheart cabbage, raw","Chou conique, cru",Brassica oleracea var. conica L.,Brassicaceae,2006-09-14 00:00:00 UTC,2015-04-13 21:45:46 UTC,0.0
+400,285,Vegetables,Cabbages,Sauerkraut,Choucroute,Brassica oleracea var. capitata L.,Brassicaceae,2006-07-12 00:00:00 UTC,2015-04-13 21:45:44 UTC,98.69332
+401,284,Vegetables,Cabbages,"Savoy cabbage, raw","Chou de Milan, cru",Brassica oleracea var. sabauda L.,Brassicaceae,2006-07-12 00:00:00 UTC,2015-04-13 21:45:44 UTC,120.62002000000001
+402,323,Vegetables,Cabbages - Chinese cabbages,"Napa cabbage, raw","Chou de Pékin, cru",Brassica rapa ssp. Pekinensis,Brassicaceae,2006-08-10 00:00:00 UTC,2015-04-13 21:45:45 UTC,116.61
+403,322,Vegetables,Cabbages - Chinese cabbages,"Pak choy, raw","Chou de Chine, cru",Brassica rapa var. chinensis,Brassicaceae,2006-08-10 00:00:00 UTC,2015-04-13 21:45:45 UTC,247.85
+404,154,Vegetables,Fruit vegetables,"Avocado, raw","Avocat, cru",Persea americana Mill.,Lauraceae,2005-09-28 00:00:00 UTC,2015-04-13 21:45:43 UTC,159.19443
+405,360,Vegetables,Fruit vegetables,"Chilli pepper [Green], raw","Piment [Vert], cru",Capsicum annuum L.,Solanaceae,2006-08-17 00:00:00 UTC,2015-04-13 21:45:45 UTC,256.24171
+406,361,Vegetables,Fruit vegetables,"Chilli pepper [Red], raw","Piment [Rouge], cru",Capsicum annuum L.,Solanaceae,2006-08-17 00:00:00 UTC,2015-04-13 21:45:45 UTC,331.1975
+407,540,Vegetables,Fruit vegetables,"Chilli pepper [Yellow], raw","Piment [Jaune], cru",Capsicum annuum L.,Solanaceae,2007-03-23 00:00:00 UTC,2015-04-13 21:45:47 UTC,386.484
+408,359,Vegetables,Fruit vegetables,"Eggplant [Purple], whole, raw","Aubergine [Violette], entière, crue",Solanum melongena L.,Solanaceae,2006-08-17 00:00:00 UTC,2015-04-13 21:45:45 UTC,65.28375
+409,750,Vegetables,Fruit vegetables,"Olive [Black], raw","Olive [Noire], crue",Olea europaea L.,Oleaceae,2007-10-16 17:04:17 UTC,2015-04-13 21:45:48 UTC,993.97425
+410,749,Vegetables,Fruit vegetables,"Olive [Green], raw","Olive [Verte], crue",Olea europaea L.,Oleaceae,2007-10-16 17:04:17 UTC,2015-04-13 21:45:48 UTC,728.3249000000001
+411,701,Vegetables,Fruit vegetables,"Sweet pepper [Green], raw","Poivron [Vert], cru",Capsicum annuum L.,Solanaceae,2007-08-22 00:00:00 UTC,2015-04-13 21:45:48 UTC,205.55191000000002
+412,702,Vegetables,Fruit vegetables,"Sweet pepper [Red], raw","Poivron [Rouge], cru",Capsicum annuum L.,Solanaceae,2007-08-22 00:00:00 UTC,2015-04-13 21:45:48 UTC,241.53875
+413,703,Vegetables,Fruit vegetables,"Sweet pepper [Yellow], raw","Poivron [Jaune], cru",Capsicum annuum L.,Solanaceae,2007-08-22 00:00:00 UTC,2015-04-13 21:45:48 UTC,215.14166
+414,260,Vegetables,Fruit vegetables,"Tomato [Cherry], whole, raw","Tomate [Cerise], entière, crue",Lycopersicon esculentum var. cerasiforme Alef.,Solanaceae,2006-06-26 10:03:19 UTC,2015-04-13 21:45:44 UTC,16.50406
+415,258,Vegetables,Fruit vegetables,"Tomato, whole, raw","Tomate, entière, crue",Lycopersicon esculentum Mill.,Solanaceae,2006-06-26 10:03:19 UTC,2015-04-13 21:45:44 UTC,58.34306
+416,270,Vegetables,Gourds,"Cucumber, raw","Concombre, cru",Cucumis sativus L.,Cucurbitaceae,2006-06-27 13:16:24 UTC,2015-04-13 21:45:44 UTC,24.92934
+417,183,Vegetables,Gourds,"Pumpkin, raw","Potiron, cru",Cucurbita maxima var. maxima,Cucurbitaceae,2005-09-29 00:00:00 UTC,2015-04-13 21:45:44 UTC,111.73575
+418,331,Vegetables,Gourds,"Squash, raw","Courge, crue",Cucurbita Pepo L.,Cucurbitaceae,2006-08-11 00:00:00 UTC,2015-04-13 21:45:45 UTC,34.20187
+419,502,Vegetables,Gourds,"Zucchini, raw","Courgette, crue",Cucurbita pepo L.,Cucurbitaceae,2006-11-03 00:00:00 UTC,2015-04-13 21:45:46 UTC,42.39734
+420,435,Vegetables,Leaf vegetables,"Arugula, raw","Roquette, crue",Eruca vesicaria ssp.sativa,Brassicaceae,2006-09-12 00:00:00 UTC,2015-04-13 21:45:46 UTC,136.50019
+421,500,Vegetables,Leaf vegetables,"Beet greens, raw","Feuilles de betterave, crues",Beta vulgaris var. vulgaris,Chenopodiaceae,2006-10-11 00:00:00 UTC,2015-04-13 21:45:46 UTC,61.12167
+422,310,Vegetables,Leaf vegetables,"Chicory [Green], raw","Endive [Verte], crue",Cichorium intybus L.,Asteraceae,2006-08-08 09:44:41 UTC,2015-04-13 21:45:45 UTC,196.26456000000002
+423,309,Vegetables,Leaf vegetables,"Chicory [Red], raw","Endive [Rouge], crue",Cichorium intybus L.,Asteraceae,2006-08-08 09:44:41 UTC,2015-04-13 21:45:45 UTC,364.275
+424,747,Vegetables,Leaf vegetables,"Dandelion, raw","Pissenlit commun, cru",Taraxacum officinale,Asteraceae,2007-10-16 00:00:00 UTC,2015-04-13 21:45:48 UTC,385.54999
+425,311,Vegetables,Leaf vegetables,"Endive [Curly], raw","Chicorée frisée, crue",Cichorium endivia L.,Asteraceae,2006-08-08 09:44:41 UTC,2015-04-13 21:45:45 UTC,24.05
+426,312,Vegetables,Leaf vegetables,"Endive [Escarole], raw","Chicorée scarole, crue",Cichorium endivia L.,Asteraceae,2006-08-08 09:44:41 UTC,2015-04-13 21:45:45 UTC,18.23
+427,773,Vegetables,Leaf vegetables,"Garden cress, raw","Cresson alénois, cru",Lepdium sativum,Brassicaceae,2007-10-22 00:00:00 UTC,2015-04-13 21:45:49 UTC,14.0
+428,313,Vegetables,Leaf vegetables,"Lettuce [Green], raw","Laitue [Verte], crue",Lactuca sativa L.,Asteraceae,2006-08-08 00:00:00 UTC,2015-04-13 21:45:45 UTC,76.38038
+429,314,Vegetables,Leaf vegetables,"Lettuce [Red], raw","Laitue [Rouge], crue",Lactuca sativa L.,Asteraceae,2006-08-08 00:00:00 UTC,2015-04-13 21:45:45 UTC,176.91
+430,272,Vegetables,Leaf vegetables,"Spinach, raw","Epinard, cru",Spinacia oleracea L.,Chenopodiaceae,2006-06-27 11:31:30 UTC,2015-04-13 21:45:44 UTC,382.27610000000004
+431,319,Vegetables,Leaf vegetables,"Swiss chard leaves [Red], raw","Feuilles de bettes [Rouges], crues",Beta vulgaris var. flavescens,Chenopodiaceae,2006-08-10 00:00:00 UTC,2015-04-13 21:45:45 UTC,1441.4
+432,393,Vegetables,Leaf vegetables,"Swiss chard leaves [White], raw","Feuilles de bettes [Blanches], crues",Beta vulgaris var. flavescens,Chenopodiaceae,2006-08-29 00:00:00 UTC,2015-04-13 21:45:45 UTC,930.0082
+433,255,Vegetables,Onion-family vegetables,"Onion [Red], raw","Oignon [Rouge], cru",Allium cepa L. var. cepa,Alliaceae,2006-06-19 09:23:59 UTC,2015-04-13 21:45:44 UTC,261.46426
+434,256,Vegetables,Onion-family vegetables,"Onion [White], raw","Oignon [Blanc], cru",Allium cepa L. var. cepa,Alliaceae,2006-06-19 09:23:59 UTC,2015-04-13 21:45:44 UTC,54.15616
+435,257,Vegetables,Onion-family vegetables,"Onion [Yellow], raw","Oignon [Jaune], cru",Allium cepa L. var. cepa,Alliaceae,2006-06-19 09:23:59 UTC,2015-04-13 21:45:44 UTC,138.14986
+436,382,Vegetables,Onion-family vegetables,"Shallot [Pink], raw","Echalotte [Rose], crue",Allium cepa Aggregatum Group,Alliaceae,2006-08-29 00:00:00 UTC,2015-04-13 21:45:45 UTC,114.7
+437,380,Vegetables,Onion-family vegetables,"Shallot, raw","Echalotte, crue",Allium cepa Aggregatum Group,Alliaceae,2006-08-29 00:00:00 UTC,2015-04-13 21:45:45 UTC,113.22
+438,570,Vegetables,Pod vegetables,"Broad bean pod, raw","Fèves, crues",Vicia faba L.,Fabaceae,2007-05-21 00:00:00 UTC,2015-04-13 21:45:47 UTC,194.154
+439,334,Vegetables,Pod vegetables,"Green bean, raw","Haricot vert, cru",Phaseolus vulgaris L.,Fabaceae,2006-08-11 00:00:00 UTC,2015-04-13 21:45:45 UTC,68.32616
+440,649,Vegetables,Pulse vegetables,"Fresh pea, raw","Petit pois, cru",Pisum sativum L.,Fabaceae,2007-07-12 00:00:00 UTC,2015-04-13 21:45:47 UTC,0.02101
+441,446,Vegetables,Pulse vegetables,"Sugar pea, raw","Pois gousse, cru",Pisum sativum ssp. Sativum,Fabaceae,2006-09-12 00:00:00 UTC,2015-04-13 21:45:46 UTC,0.0
+442,507,Vegetables,Root vegetables,"Burdock root, raw","Grande bardane, crue",Arctium lappa var. lappa,Asteraceae,2006-11-07 00:00:00 UTC,2015-04-13 21:45:46 UTC,267.96
+443,269,Vegetables,Root vegetables,"Carrot, raw","Carotte, crue",Daucus carota sp. Sativus,Apiaceae,2006-06-27 00:00:00 UTC,2015-04-13 21:45:44 UTC,102.38531
+444,351,Vegetables,Root vegetables,"Celeriac, raw","Celeri rave, cru",Apium graveolens L. var. rapaceum,Apiaceae,2006-08-17 00:00:00 UTC,2015-04-13 21:45:45 UTC,61.60919
+445,352,Vegetables,Root vegetables,"Kohlrabi, raw","Chou rave, cru",Brassica oleracea L. var. gongylodes L.,Brassicaceae,2006-08-17 00:00:00 UTC,2015-04-13 21:45:45 UTC,172.13
+446,350,Vegetables,Root vegetables,"Parsnip, raw","Panais, cru",Pastinaca sativa L.,Apiaceae,2006-08-17 00:00:00 UTC,2015-04-13 21:45:45 UTC,1.0267
+447,349,Vegetables,Root vegetables,"Radish [Black], raw","Radis [Noir], cru",Raphanus sativus var. niger L.,Brassicaceae,2006-08-17 00:00:00 UTC,2015-04-13 21:45:45 UTC,2.11
+448,353,Vegetables,Root vegetables,"Radish, raw","Radis, cru",Raphanus sativus var. sativus L.,Brassicaceae,2006-08-17 00:00:00 UTC,2015-04-13 21:45:45 UTC,44.95287
+449,499,Vegetables,Root vegetables,"Red beetroot, raw","Betterave rouge, crue",Beta vulgaris var. Rubra L.,Chenopodiaceae,2006-10-11 00:00:00 UTC,2015-04-13 21:45:46 UTC,164.60709
+450,408,Vegetables,Root vegetables,"Swede, raw","Rutabaga, cru",Brassica napus ssp.napobrassica L.,Brassicaceae,2006-09-04 00:00:00 UTC,2015-04-13 21:45:45 UTC,6.6375
+451,471,Vegetables,Root vegetables,"Turnip root, raw","Navet, cru",Brassica rapa var. rapa,Brassicaceae,2006-09-15 00:00:00 UTC,2015-04-13 21:45:46 UTC,54.51
+452,328,Vegetables,Shoot vegetables,"Asparagus, raw","Asperge, crue",Asparagus officinalis L.,Liliaceae,2006-08-11 00:00:00 UTC,2015-04-13 21:45:45 UTC,98.54889
+453,977,Vegetables,Shoot vegetables,Fennel,Fenouil,Foenicum Vulgare P. Mill,Apiaceae,2009-12-22 14:33:28 UTC,2015-04-13 21:45:50 UTC,27.56
+454,368,Vegetables,Shoot vegetables,"Globe artichoke, heads, raw","Artichaut, cru",Cynara cardunculus var. scolymus L.,Asteraceae,2006-08-21 00:00:00 UTC,2015-04-13 21:45:45 UTC,1402.42857
+455,407,Vegetables,Stalk vegetables,"Celery stalks, raw","Celeri branche, cru",Apium graveolens L. var. dulce,Apiaceae,2006-09-04 00:00:00 UTC,2015-04-13 21:45:45 UTC,22.76632
+456,320,Vegetables,Stalk vegetables,"Swiss chard stems [Red], raw","Feuilles de betteraves [Rouges], crues",Beta vulgaris var. flavescens,Chenopodiaceae,2006-08-10 00:00:00 UTC,2015-04-13 21:45:45 UTC,439.4
+457,392,Vegetables,Stalk vegetables,"Swiss chard stems [White], raw","Feuilles de betteraves [Blanches], crues",Beta vulgaris var. flavescens,Chenopodiaceae,2006-08-29 00:00:00 UTC,2015-04-13 21:45:45 UTC,313.1
+458,254,Vegetables,Tubers,"Potato, raw","Pomme de terre, crue",Solanum tuberosum L.,Solanaceae,2006-06-19 09:23:59 UTC,2015-04-13 21:45:44 UTC,101.53563
+459,332,Vegetables,Tubers,"Sweet potato, raw","Patate douce, crue",Ipomoea batatas L.,Convolvulaceae,2006-08-11 00:00:00 UTC,2015-04-13 21:45:45 UTC,74.24334

@@ -1,0 +1,96 @@
+# ==============================================================================
+# SÉCURITÉ & SECRETS
+# ==============================================================================
+.env
+.env.local
+.env.*.local
+*.private
+*.secret
+
+# ==============================================================================
+# BACKEND (Python & FastAPI)
+# ==============================================================================
+# Fichiers compilés
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environnements virtuels (Python)
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Fichiers de distribution et de build
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Base de données locale (si tu utilises SQLite pour des tests rapides)
+*.db
+*.sqlite3
+
+# ==============================================================================
+# FRONTEND (Flutter & Dart)
+# ==============================================================================
+# Dossiers de compilation et outils Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Fichiers spécifiques au Web (Chrome)
+.dart_tool/chrome-device/
+
+# Fichiers spécifiques à Android
+**/*.apk
+**/*.aab
+**/*.aar
+**/flutter-plugins-dependencies
+
+# Fichiers spécifiques à iOS / macOS
+**/Pods/
+**/Podfile.lock
+**/DerivedData/
+.symbols/
+
+# ==============================================================================
+# ÉDITEURS DE CODE & SYSTÈME (VS Code, Android Studio, OS)
+# ==============================================================================
+# VS Code
+.vscode/
+!.vscode/extensions.json
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Fichiers système (macOS et Windows)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
