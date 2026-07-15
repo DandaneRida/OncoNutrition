@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/VOTRE_PSEUDO_GITHUB/OncoNutrition/stargazers">
-    <img src="https://img.shields.io/github/stars/VOTRE_PSEUDO_GITHUB/OncoNutrition?style=flat&color=brightgreen&logo=github" alt="GitHub stars" />
+  <a href="https://github.com/DandaneRida/OncoNutrition/stargazers">
+    <img src="https://img.shields.io/github/stars/DandaneRida/OncoNutrition?style=flat&color=brightgreen&logo=github" alt="GitHub stars" />
   </a>
-  <a href="https://github.com/VOTRE_PSEUDO_GITHUB/OncoNutrition/network/members">
-    <img src="https://img.shields.io/github/forks/VOTRE_PSEUDO_GITHUB/OncoNutrition?style=flat&color=brightgreen&logo=github" alt="GitHub forks" />
+  <a href="https://github.com/DandaneRida/OncoNutrition/network/members">
+    <img src="https://img.shields.io/github/forks/DandaneRida/OncoNutrition?style=flat&color=brightgreen&logo=github" alt="GitHub forks" />
   </a>
 </p>
 
