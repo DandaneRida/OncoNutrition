@@ -33,7 +33,7 @@ SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 # ==========================================
 # INITIALISATION DE L'APPLICATION FASTAPI
 # ==========================================
-app = FastAPI(title="OncoNutrition API", version="2.0")
+app = FastAPI(title="OncoNutrition API", version="1.0")
 
 # Ajout du Middleware CORS : Indispensable pour autoriser l'application Flutter (frontend) 
 # à communiquer avec ce serveur (backend) sans être bloquée par la politique de sécurité du navigateur.
